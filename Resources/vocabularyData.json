@@ -1,0 +1,2153 @@
+[
+    {
+        "id" : 2,
+        "label" : "accrescent(e)",
+        "description" : "se dit d'un organe floral continuant à croitre après la floraison ( ex: calice accrescent )"
+    },
+    {
+        "id" : 3,
+        "label" : "acidiphile",
+        "description" : "se dit d'une plante croissant préférentiellement sur un substrat acide."
+    },
+    {
+        "id" : 4,
+        "label" : "aciculaire",
+        "description" : "se dit d'une feuille linéaire, rigide et à sommet aigu ( si sommet piquant, on parle alors d'aiguilles"
+    },
+    {
+        "id" : 5,
+        "label" : "acuminé(e)",
+        "description" : "organie terminé par une pointe étroite et progressivement effilée ( ex. feuille acuminée )"
+    },
+    {
+        "id" : 6,
+        "label" : "adventice",
+        "description" : "se dit d'une plante étrangère à la flore indigène et introduite involontairement ; dans le domaine agronomique, ce terme prend le sens péjoratif d'indésirable ( syn. 'mauvaise herbes' )."
+    },
+    {
+        "id" : 7,
+        "label" : "adventive",
+        "description" : "se dit d'une racine se formatn postérieurement à la germination de la graine, sur une partie quelconque de la plante ( e. sur la tige ou plus rarement, à l'aisselle des feuilles )."
+    },
+    {
+        "id" : 8,
+        "label" : "aigrette(une)",
+        "description" : "ensemble de poils ou de soies surmontant un fruit ou une graine ( ex. sur le fruit du pissenlit, Taraxacum sp. )."
+    },
+    {
+        "id" : 9,
+        "label" : "aiguille",
+        "description" : "feuille aciculaire à sommet piquant."
+    },
+    {
+        "id" : 10,
+        "label" : "aiguillon(un)",
+        "description" : "expansion piquante de l'épiderme ou de l'écorce d'une tige, se détachant aisément en laissant une cicatrice superficielle. Par extension, petites points piquantes portées par des organes tels que les fruits."
+    },
+    {
+        "id" : 11,
+        "label" : "aile(une)",
+        "description" : "(i) expansion membraneuse, plus ou moins large de divers organes ( tige, fruit, graine ) ; (ii) pétales latéraux de la fleur des Fabacèes ; (iii) sépales latéraux de la fleur des Polygalacées."
+    },
+    {
+        "id" : 12,
+        "label" : "alène",
+        "description" : "se dit d'une disposition de feuilles linéraies, rigides, arquées et effilées à l'extrémité."
+    },
+    {
+        "id" : 13,
+        "label" : "alternes",
+        "description" : "se dit d'organes insérés isolément sur un axe, à des niveaux différents ( ex. feuilles alternes, ant. opposés )."
+    },
+    {
+        "id" : 14,
+        "label" : "amplexicaule",
+        "description" : "se dit d'une feuille ou d'une bractée sessile dont la base élargie embrasse la tige du rameau."
+    },
+    {
+        "id" : 15,
+        "label" : "androcée(un)",
+        "description" : "ensemble des étamines d'une fleur."
+    },
+    {
+        "id" : 16,
+        "label" : "annuel(le)",
+        "description" : "se dit d'un végétal dont le cycle vital, de la germination à la dispersion des graines, se déroule au cours d'une même année, parfois en quelques semaines. Le système racinaire d'une plante annuelle est généralement plus grêle que celui d'une plante vivace qui sera gén. robuste."
+    },
+    {
+        "id" : 17,
+        "label" : "anguleux(se)",
+        "description" : "se dit d'un organe présentant des angles, en oppositions à ceux cylindriques ( ex. tige anguleuse, lorsqu'on fait rouler la tige entre ses doigts, on sent des arêtes, ant. cylindrique )."
+    },
+    {
+        "id" : 18,
+        "label" : "anthère(une)",
+        "description" : "partie apicle de l'étamine, constituée gén. par deux thèques ( unies par le connectif ) renfermant les sacs polliniques, contenant les grains de pollen."
+    },
+    {
+        "id" : 19,
+        "label" : "anthèse(une)",
+        "description" : "moment correspondant à l'ouverture des boutons floraux ; par extension, à l'ouverture de la fleur."
+    },
+    {
+        "id" : 20,
+        "label" : "antiligule(une)",
+        "description" : "petit appendice membraneux prolongeant la gaine foliaire et opposé à la ligule, présent chez les Poacées et Cypéracées."
+    },
+    {
+        "id" : 21,
+        "label" : "apex(un)",
+        "description" : "sommet d'une tige ou d'un organe."
+    },
+    {
+        "id" : 22,
+        "label" : "apical(e)",
+        "description" : "situé au sommet d'un organe."
+    },
+    {
+        "id" : 23,
+        "label" : "apiculé(e)",
+        "description" : "se dit d'une organe dont le sommet se rétrécit brusquement en une pointe courte et peu aigüe."
+    },
+    {
+        "id" : 24,
+        "label" : "apomictique",
+        "description" : "se dit d'une espèce ayant comme mode de reproduction l'apoximie."
+    },
+    {
+        "id" : 25,
+        "label" : "apomixie(une)",
+        "description" : "mode de reproduction asexué caractérisé par la formation de graines sans qu'il y ait eu fécondation ( mitose de certaines cellules du sac embryonnaire ), les espèces sont dites alors 'apomictiques'."
+    },
+    {
+        "id" : 26,
+        "label" : "apprimé(e)",
+        "description" : "se dit d'un organe appliqué contre un autre, mais non soudé à celui-ci ( ex. poils apprimés )."
+    },
+    {
+        "id" : 27,
+        "label" : "aquatique",
+        "description" : "se dit d'une plante dont la plus grande partie des organes végétatifs sont soit submergés soit étalés à la surface de l'eau."
+    },
+    {
+        "id" : 28,
+        "label" : "arête(une)",
+        "description" : "(i) longue pointe étroite et raide, prolongeant ou terminant un organe, (ii) anle saillant formé par deux faces contigües d'un organe."
+    },
+    {
+        "id" : 29,
+        "label" : "aristé(e)",
+        "description" : "terminé par une arête."
+    },
+    {
+        "id" : 30,
+        "label" : "aromatique",
+        "description" : "se dit d'une plante ou d'un organe contenant des composés volatiles qui lui conférent une odeur agréable."
+    },
+    {
+        "id" : 31,
+        "label" : "arqué(e)",
+        "description" : "se dit d'un organe ou d'une portion d'organe courbée à la manière d'un arc ( ex. sur une feuille, nervure arquées )."
+    },
+    {
+        "id" : 32,
+        "label" : "article(un)",
+        "description" : "portion d'organe comprise entre deux articulations, entre deux rétrécissements ou, éventuellement, entre deux parois."
+    },
+    {
+        "id" : 33,
+        "label" : "articulé(e)",
+        "description" : "se dit d'un organe formé d'articles ( ex. fruits articulés, silique de la ravenelle, Raphanus raphanistrum )."
+    },
+    {
+        "id" : 34,
+        "label" : "ascendant(e)",
+        "description" : "se dit d'un organe, gén. tige ou rameau, couché à la base et redressé plus haut à la verticale."
+    },
+    {
+        "id" : 35,
+        "label" : "asymétrique",
+        "description" : "se dit d'un organe qui ne présente pas d'axe de sym. ( ex. feuille asymétrique )."
+    },
+    {
+        "id" : 36,
+        "label" : "auriculé(e)",
+        "description" : "se dit d'une feuille pourvue d'oreillettes ou de deux lobes à la base."
+    },
+    {
+        "id" : 37,
+        "label" : "baie(une)",
+        "description" : "fruit charnu indéhiscent, à une ou plus gén. plusieurs graines libres ( 'pépins' )."
+    },
+    {
+        "id" : 38,
+        "label" : "basilaire",
+        "description" : "se dit d'un organe attaché à la base de la plante ou à la base d'un autre organe ( ex. feuilles basilaires )."
+    },
+    {
+        "id" : 39,
+        "label" : "bec(un)",
+        "description" : "pointe terminale d'un fruit. Chez les Astéracées, partie filiforme qui surmonte l'akène et porte l'aigrette."
+    },
+    {
+        "id" : 40,
+        "label" : "bifide",
+        "description" : "se dit d'un organe fendu en deux parties ( ex. stigmate bifide )."
+    },
+    {
+        "id" : 41,
+        "label" : "bilatéral(e)",
+        "description" : "se dit d'un organe ne possédant qu'un seul axe de sym. ( ex. fleur à sym. bilatérale des Lamiacèes, Scrophulariacées, Orchidacées, ant. radiaire )."
+    },
+    {
+        "id" : 42,
+        "label" : "bipare",
+        "description" : "se dit d'une cyme où les pédicelles latéraux ( développés en dessous de l'axe principal terminé par une fleur ) sont opposés deux à deux."
+    },
+    {
+        "id" : 43,
+        "label" : "bisannuel(le)",
+        "description" : "se dit d'un végétal dont le cycle vital, de la germinantion à la dispersion des graines, nécessite duex années consécutives séparées par un hiver. Une telle plante ne fleurit donc pas au cours de la première année."
+    },
+    {
+        "id" : 44,
+        "label" : "boulaie(une)",
+        "description" : "dorêt dominée par les bouleaux."
+    },
+    {
+        "id" : 45,
+        "label" : "bractée(une)",
+        "description" : "organe foliacé, gén. réduit ( 'mini-feuille' ), parfois écailleux, sous-tendant une fleur isolée, le pédoncule d'une inflorescence ou le pédicelle d'une fleur faisant partie d'une inflorescence."
+    },
+    {
+        "id" : 46,
+        "label" : "bractéole(une)",
+        "description" : "petite bractée insérée sur un pédicelle."
+    },
+    {
+        "id" : 47,
+        "label" : "bulbe(un)",
+        "description" : "tige modifiée, gén. souterraine et très contractée, portant un ou plusieurs bourgeons enveloppés d'écailles ; celles-ci sont soit épaisses et charnues ( ex. bulbe tuniqué comme l'ognion), soit membraneuse et minces autour d'un exe tubérisé ( ex. bulbe solide, comme ches le crocus )."
+    },
+    {
+        "id" : 48,
+        "label" : "bulbille(une)",
+        "description" : "bourgeon transformé en un petit bulbe se détachant de la plante-mère et destiné à la multiplication végétative ; elle peuvent se former à l'aisselle des feuilles, dans une inflorescence à la place des fleurs, ou sur des organes souterrains."
+    },
+    {
+        "id" : 49,
+        "label" : "caduc(que)",
+        "description" : "se dit d'un organe qui se détache spontanément soit peu après sa formation ( ex. sépales caducs ), soit suivant un rythme annuel ( ex. feuilles caduques)."
+    },
+    {
+        "id" : 50,
+        "label" : "calaminaire",
+        "description" : "se dit d'un site ( gén. pelouse) sur sols riches en métaux lourds ( surtout plomb et zinc )."
+    },
+    {
+        "id" : 51,
+        "label" : "calcicole",
+        "description" : "se dit d'une plante croissant uniquement sur un substrat riche en calcaire."
+    },
+    {
+        "id" : 52,
+        "label" : "calice(un)",
+        "description" : "verticille externe du périanthe, formé par les sépale gén. verts qui peuvent être libres ou soudés."
+    },
+    {
+        "id" : 53,
+        "label" : "calicule(un)",
+        "description" : "(i) ensemble des stipules des sépales doublant le calice à sa périphérie ( Rosacées) ; (ii) ches les Astéracées, ensemble de bractées plus petites que celle de l'involucre normal extérieures à celui-ci ( syn. préférable: involucelle )."
+    },
+    {
+        "id" : 54,
+        "label" : "callosité(une)",
+        "description" : "petit renflement, gén. de consistance dure, formé par certains organes."
+    },
+    {
+        "id" : 55,
+        "label" : "campanulé(e)",
+        "description" : "se dit d'un calice ou d'une corole en forme de cloche( ex. fleur de la campagnule à feuilles rondes, Campanula rotundifolia )."
+    },
+    {
+        "id" : 56,
+        "label" : "canaliculé(e)",
+        "description" : "se dit d'un organe creusé d'un petit sillon."
+    },
+    {
+        "id" : 57,
+        "label" : "cannelé(e)",
+        "description" : "se dit d'un tronc, d'une tige, d'un fruit portant des côtes longitudinales parallèles, séparées par des sillons ( ex. tronc du charme, Carpinus betulus )."
+    },
+    {
+        "id" : 58,
+        "label" : "capitule(un)",
+        "description" : "inflorescence formée de fleurs sessiles ou subsessiles, serrées les unse contre les autres au niveau du sommet gén. élargie du pédoncule floral ( réceptacle pourvu d'un involucre de bractées ), simulant parfois une fleur unique ( ex. inflorescences des Astéracées ou Dipsacacées )."
+    },
+    {
+        "id" : 59,
+        "label" : "capsule(une)",
+        "description" : "fruit sec déhiscent, provenant de la soudure de deux ou plusieurs carpelles, s'ouvrant par des gentes en deux ou plusieurs valves, ou bien par dse dents ou des pores, pour libérer les grains ( ex. capsule du coquelicot, Papaver rhoeas )."
+    },
+    {
+        "id" : 60,
+        "label" : "carène(une)",
+        "description" : "(i) saillie de section triangulaire disposée longitudinalement au dos de certains organes; (ii) pièce de la corole des Fabacées, provennant de l'accolement, ou plus rarement de la soudure, des deux pétales inférieurs."
+    },
+    {
+        "id" : 61,
+        "label" : "caréné(e)",
+        "description" : "se dit d'un organe pourvu d'une carène."
+    },
+    {
+        "id" : 62,
+        "label" : "carpelle(un)",
+        "description" : "chacun des éléments de base du gynécée ou pistil ; un carpelle comporte typiquement un ovaire, un style et un stigmate."
+    },
+    {
+        "id" : 63,
+        "label" : "cartilagineux(se)",
+        "description" : "se dit d'un organe qui a la consistance d'un cartilage ( ex. bordure cartilagineuse d'une feuille )."
+    },
+    {
+        "id" : 64,
+        "label" : "caryopse(un)",
+        "description" : "fruit sec, indéhiscent, propre aux Poacées, dont la graine est soudée à la paroi interne du fruit."
+    },
+    {
+        "id" : 65,
+        "label" : "casque(un)",
+        "description" : "pièce ou ensemble de pièces du périanhte dressée(s) et recourbée(s) de telle façon qu'elle(s) rappelle(nt) la forme d'un casque militaire."
+    },
+    {
+        "id" : 66,
+        "label" : "caulinaire",
+        "description" : "se dit d'un organe inséré sur la tige ( ex. feuilles caulinaires )."
+    },
+    {
+        "id" : 67,
+        "label" : "cespiteuse",
+        "description" : "se dit d'un végétal qui forme une touffe compacte ( ex. la canche cespiteuse, Deschampsia cespitosa )."
+    },
+    {
+        "id" : 68,
+        "label" : "chaméphyte(un)",
+        "description" : "forme biologique de plantes dont les tiges aériennes portent des bourgeons persistant durant l'hiver, situés gén. à moins de 50 cm de haut ; chaméphyte frutescent : petit buisson à tiges lignifiées, plus ou moins dressées ( ex. a myrtille , Vaccinium myrtillus ); chaméphyte herbacée : organes aériens herbacés, souvent plus ou moins appliqués contre le substrat ( ex. la petite pervence, Vinca minor ). "
+    },
+    {
+        "id" : 69,
+        "label" : "charnu(e)",
+        "description" : "se dit d'un organe dont le parenchyme gonflé d'eau confère à celui ci une épaisseur inhabituelle ( environ 2mm ) et une consistance à la fois ferme et tendre ( ex. feuilles charnues, syn. succulent )."
+    },
+    {
+        "id" : 70,
+        "label" : "chaton(un)",
+        "description" : "inflorescence cylindrique, souvent pendante, formée d'un axe allongé portan des fleurs unisexuées sessiles, ou subsessiles, à l'aiselle de bractées ; les fleurs sont insérées isolément ( chaton simple ) ou par petits groupes ( chaton composé )."
+    },
+    {
+        "id" : 71,
+        "label" : "chênaie(une)",
+        "description" : "forêt dominée par des chênes ( Quercus spp. )."
+    },
+    {
+        "id" : 72,
+        "label" : "cilié(e)",
+        "description" : "se dit d'un organe bordé de poils dressés ( cils ) disposés sur un rang"
+    },
+    {
+        "id" : 73,
+        "label" : "cladode(un)",
+        "description" : "rameau modifié, aplati et vert au point de simuler une feuille dans son aspect et sa fonction ( ex. le fragon faux houx, Ruscus aculeatus)"
+    },
+    {
+        "id" : 74,
+        "label" : "cloison(une)",
+        "description" : "séparation correspondant à la soudure des caprelles et délimitant, dans l'ovaire, puis le fruit, un certain nombre de loges, contenant les ovules et puis les graines."
+    },
+    {
+        "id" : 75,
+        "label" : "collet(un)",
+        "description" : "zone de jonction de la tige et de la racine."
+    },
+    {
+        "id" : 76,
+        "label" : "composée",
+        "description" : "se dit d'une organe formé de plusieurs éléments semblables : feuille composée = divisée en folioles, l'axe ( = rachis ) se différencie et tous les segmetns du limbe sont des folioles ( ex. le robinier, Robinia pseudoacacia ) ; inflorescence composée = inflorescence constitutée d'inflorescences ( ex. ombelles composées de beaucoup d'Apiacées )."
+    },
+    {
+        "id" : 77,
+        "label" : "concolore",
+        "description" : "se dit d'un organe de couleur uniforme sur les 2 faces."
+    },
+    {
+        "id" : 78,
+        "label" : "cône(un)",
+        "description" : "organe, chez les gymnispermes, formé d'un axe sur lequel son insérées de nombreuses écailles imbriquées portant soit des sacs polliniques ( cônes mâles), soit des ovules et à maturité des graines ( cônes femelles )."
+    },
+    {
+        "id" : 79,
+        "label" : "connivents(tes)",
+        "description" : "se dit d'organes rapprochés par leurs bords, mais non soudés ( ex. anthères conniventes chez la bourrache, Borago officinalis )."
+    },
+    {
+        "id" : 80,
+        "label" : "corbeille(une)",
+        "description" : "type de disposition des feuilles chez les Ptéridophytes, partant d'une base et incurvées vers l'extérieur ( rappelant la forme d'une corbeille )."
+    },
+    {
+        "id" : 81,
+        "label" : "cordé(e)",
+        "description" : "se dit d'un organe dont la base est échancrée en forme de coeur."
+    },
+    {
+        "id" : 82,
+        "label" : "coriace",
+        "description" : "se dit d'un organe résitant, mais flexible dont la structure rappelle celle du cuir."
+    },
+    {
+        "id" : 83,
+        "label" : "corole(une)",
+        "description" : "verticille interne du périanthe, formé par les pétales, qui peuvent être libres ou soudés."
+    },
+    {
+        "id" : 84,
+        "label" : "corymbe(un)",
+        "description" : "inflorescence indéterminée dont les fleurs se situent à peu près dans le même plan horizontal, mais qui sont portées par des pédicelles insérés à des niveaux différents et par conséquent, de longueur inégale."
+    },
+    {
+        "id" : 85,
+        "label" : "côte(une)",
+        "description" : "crête longitudinale obtuse portée par certains organes tels les tiges, les fruits ( ex. sur les fruits de nombreuses Apiacées)."
+    },
+    {
+        "id" : 86,
+        "label" : "couronne(une)",
+        "description" : "organe tubulaire formé par la soudure des appendices internes des tépales dans le genre Narcissus, désigné par certains autours sous le nom de 'paracorole'."
+    },
+    {
+        "id" : 87,
+        "label" : "crènelé(e)",
+        "description" : "se dit d'un organe bordé de dents larges, obtuses ou arrondies."
+    },
+    {
+        "id" : 88,
+        "label" : "cultivar(un)",
+        "description" : "unité taxonomique subordonnée à l'espèce, inconue à l'état spontané, sélectionnée par l'homme et cultivée par celui-ci parce qu'elle présente un intérêt agronomique ou horticule ( souvent syn. variété )."
+    },
+    {
+        "id" : 89,
+        "label" : "cunéé(e)",
+        "description" : "se dit d'un organe dont la base a la forme d'un coin ou d'un triangle renversé."
+    },
+    {
+        "id" : 90,
+        "label" : "cunéiforme",
+        "description" : "se dit d'organe de forme cunéée"
+    },
+    {
+        "id" : 91,
+        "label" : "cupule(une)",
+        "description" : "organe en forme de petite coupe écailleuse ou ligneuse enveloppant la base de certains fruits ( ex. cupule de la fain du hêtre, Fagus sylvatica)."
+    },
+    {
+        "id" : 92,
+        "label" : "cyathium(un)",
+        "description" : "inflorescence élémentaire chez les genre Euphoribia, comportant une fleur femelle réduite à un ovaire pédicellé et plusieurs fleurs mâles réduites à une étamine, entourées de bractées soudées en une coupe pourvue, dans sa partie supérieure, alternativement de dents et de glandes."
+    },
+    {
+        "id" : 93,
+        "label" : "cyme",
+        "description" : "inflorescence dont le premier axe formé est terminé par une fleur et a donc une croissance limitée, le processus se répétant pour les rameaux latéraux ; une cyme peut être unipare ( chaque ramification donnant un axe secondaire unique ) ou bipare ( chque ramification onnant deux aces secondaires )."
+    },
+    {
+        "id" : 94,
+        "label" : "cynorrhodon(un)",
+        "description" : "faux-fruit du genre Rosa formé par l'accroissement, après la floraison, du réceptacle floral creusé en forme d'outre et devenant charnu."
+    },
+    {
+        "id" : 95,
+        "label" : "décombant(e)",
+        "description" : "se dit d'un organe d'abord dressé et puis retombant vers le sol."
+    },
+    {
+        "id" : 96,
+        "label" : "décurrent(e)",
+        "description" : "se dit d'un organe se prolongeant sous son point d'insertion en se rétracissant et en se soudant à l'organe adjacent ( ex. limbe foliaire décurrent : le limbe se prolonge sur la tige)."
+    },
+    {
+        "id" : 97,
+        "label" : "décussées",
+        "description" : "se dit de feuilles opposées dont les paires successives sont décalées de 90° ( ex. chez les Lamiacées )."
+    },
+    {
+        "id" : 98,
+        "label" : "déhiscent(e)",
+        "description" : "se dit d'un fruit s'ouvrant spontanément à maturité ; la capsule, la gousse, le follicule, la pyxide, la silique et la silicule sont des fruits déhiscents ( ant. indéhiscent )."
+    },
+    {
+        "id" : 99,
+        "label" : "denté(e)",
+        "description" : "se dit d'un organe bordé d'échancrures triangulaires relativement larges ( dents aigües ), l'organe peut être doublement denté, lorsqu'il est bordé de dents qui sont elles-mêmes dentées."
+    },
+    {
+        "id" : 100,
+        "label" : "denticulé(e)",
+        "description" : "se dit d'un organe bordé de très petites dents aigües."
+    },
+    {
+        "id" : 101,
+        "label" : "diakène(un)",
+        "description" : "ensemble de deux akènes ( ex. fruits des Apiacées )."
+    },
+    {
+        "id" : 102,
+        "label" : "dichotomique",
+        "description" : "qualifie un mode de ramification par division en deux parties d'égale importance, qui se subdivisent elles-mêmmes en deux parties, égales, et ainsi de suite ( ex. ramifications chez le gui, Viscum album)."
+    },
+    {
+        "id" : 103,
+        "label" : "didyme",
+        "description" : "se dit d'un fruit formé de deux parties globuleuses, saillantes et soudées entre elles."
+    },
+    {
+        "id" : 104,
+        "label" : "didyname",
+        "description" : "se dit d'un androcée de 4 étamines dont 2 sont plus longues que les 2 autres."
+    },
+    {
+        "id" : 105,
+        "label" : "digité(e)",
+        "description" : "se dit d'une inflorescence ( épi ) dont les divisions sont disposées comme les doigts d'une main."
+    },
+    {
+        "id" : 106,
+        "label" : "dimorphisme(un)",
+        "description" : "faculté de présenter deux formes différentes chez une me espèce ( ex. dimporphisme foliaire chez de nombreuses plantes aquatiques ou du lierre, Hedera helix)."
+    },
+    {
+        "id" : 107,
+        "label" : "dioïque",
+        "description" : "se dit d'une plante dont les fleurs mâles et femelles sont portées par des individus différents ( ex. le houx, Ilex aquifolium)."
+    },
+    {
+        "id" : 108,
+        "label" : "distal(e)",
+        "description" : "se dit d'un organe éloigné, écarté de la base ou de son lieu d'insertion ( ant. proximal)."
+    },
+    {
+        "id" : 109,
+        "label" : "distiques",
+        "description" : "se dit d'organes disposées sur un axe commun, placés sur deux rangs dans le même plan."
+    },
+    {
+        "id" : 110,
+        "label" : "drageon(un)",
+        "description" : "tige prenant naissance sur une racine souterraine."
+    },
+    {
+        "id" : 111,
+        "label" : "drupe(une)",
+        "description" : "fruit charnu indéhiscent, à graine gén. unique enfermée dans l'endocarpe sclérifiée ( le 'noyau' )."
+    },
+    {
+        "id" : 112,
+        "label" : "drupéole(une)",
+        "description" : "chacune des petites drupes agglomérées dont l'ensemble forme un fruit composé ( ex. la mure, chez Rubus sp. )."
+    },
+    {
+        "id" : 113,
+        "label" : "écaille(une)",
+        "description" : "petit organe rudimentaire ( gén. feuille modifiée ), mince, charnu ou lignifié ( simples appendices, poils ou feuilles transformées ) accompagnant ou protégeant certains organes."
+    },
+    {
+        "id" : 114,
+        "label" : "échancré(e)",
+        "description" : "se dit d'un organe peu profondément entaillé à son sommet."
+    },
+    {
+        "id" : 115,
+        "label" : "elliptique",
+        "description" : "se dit d'un organe en forme d'ellipse, c-à-d ayant sa plus grande largeur vers le milieu du grand axe."
+    },
+    {
+        "id" : 116,
+        "label" : "émarginé(e)",
+        "description" : "se dit d'un organe très légèrement échancré(e) au sommet."
+    },
+    {
+        "id" : 117,
+        "label" : "embrassant(e)",
+        "description" : "se dit d'une feuille dépourvue de pétiole et ond la base du limbe entoure complètement l'axe sur lequel elle est insérée ( syn. amplexicaule )."
+    },
+    {
+        "id" : 118,
+        "label" : "engainant(e)",
+        "description" : "se dit d'une feuille qui forme une gaine autour d'un organe ( ex. limbe folaire engainant des Poacées )."
+    },
+    {
+        "id" : 119,
+        "label" : "entier(ère)",
+        "description" : "se dit d'un organe dont le bord ne présente absolument aucune découpure, si petite soit-elle."
+    },
+    {
+        "id" : 120,
+        "label" : "entrenoeud(un)",
+        "description" : "partie d'une tige ou d'un rameau comprise entre deux noeuds successifs."
+    },
+    {
+        "id" : 121,
+        "label" : "envahissante",
+        "description" : "se dit d'une espèce exotique qui étent sa distribution et\/ou sa densité de manière concurrentielle dans son aire d'introduction ( ex. la balsamine de l'Himalaya, Impatiens glandulifera )."
+    },
+    {
+        "id" : 122,
+        "label" : "éperon(un)",
+        "description" : "prolongement tubuleux ou conique d'une pièce du périanthe ( sépale ou pétale ) formant un appendice fermé à son extrémité et contenant souvent du nectar ( ex. la violette de Rivin, Viola riviniana )."
+    },
+    {
+        "id" : 123,
+        "label" : "épi(un)",
+        "description" : "inflorescence où toutes les fleurs, sessiles ou subsessiles, sont insérées sans pédicelle le long d'un axe allongé central appelé rachis."
+    },
+    {
+        "id" : 124,
+        "label" : "épicalice(un)",
+        "description" : "enveloppe florale doublan le calice à l'extérieur et correponsant à un ensemble de Bractées ( Malvacées)."
+    },
+    {
+        "id" : 125,
+        "label" : "épichile(un)",
+        "description" : "partie distale du labelle de certaines espèces d'Orchidacées, séparée de la partie basale ( hypochile ) par un étranglement."
+    },
+    {
+        "id" : 126,
+        "label" : "épillet(un)",
+        "description" : "élément de base de l'épi des Poacées, constitué d'un axe portant à sa base des bractées appelées glumes, et sur lequel sont insérées une ou plusieurs fleurs protégées par des bractées appelées glumelles."
+    },
+    {
+        "id" : 127,
+        "label" : "épine(une)",
+        "description" : "organe pointue et piquant, provenant de la modification d'organes végétatifs ( rameau, feuille, stipule ), indétachable de la tige ou du rameau contrairement à l'aiguillon, facile à détacher."
+    },
+    {
+        "id" : 128,
+        "label" : "épineux(se)",
+        "description" : "se dit d'un organe tel que la feuille, la bractée ou le fruit muni d'épines."
+    },
+    {
+        "id" : 129,
+        "label" : "épiphyte(un)",
+        "description" : "se dit d'une plante verte, croissant sur un autre végétal vivant sans parasiter celui-ci."
+    },
+    {
+        "id" : 130,
+        "label" : "érablière(une)",
+        "description" : "forêt dominée par les érables( Acer spp. )."
+    },
+    {
+        "id" : 131,
+        "label" : "érodé(e)",
+        "description" : "se dit d'un organe bordé de petites échancrures irrégulières comme s'il avait été rongé."
+    },
+    {
+        "id" : 132,
+        "label" : "étalé(e)",
+        "description" : "se dit d'un organe dressé perpendiculairement à son support ( ex. poils étalés )."
+    },
+    {
+        "id" : 133,
+        "label" : "étamine(une)",
+        "description" : "organe mâle de la fleur, constitué d'un filet et d'une anthère contenant les grins de pollen ( l'étamine est alors 'fertile', si l'anthère est absente, elle est qualifiée de 'stérile' ) ; l'ensemble des étamines forme l'androcée."
+    },
+    {
+        "id" : 134,
+        "label" : "étendard(un)",
+        "description" : "pétales supérieur médian, gén. plus gran que les autres, de la corole des fleurs de Fabacées, ayant la forme d'une voile ouverte au vent."
+    },
+    {
+        "id" : 135,
+        "label" : "étoilé(e)",
+        "description" : "se dit d'un organe divisé en segments rayonnants comme les branches d'une étoile ( ex. poils étoilés )."
+    },
+    {
+        "id" : 136,
+        "label" : "exotique",
+        "description" : "se dit d'une espèce introduite dans un nouveau territoire ( aire d'introduction ) et donc hors de son aire de répartition naturelle, de manière intentionnelle ou accidentelle par des activités humaines ( syn. non indigène, xénophyte ; ant. indigène, autochtone )."
+    },
+    {
+        "id" : 137,
+        "label" : "eutrophe",
+        "description" : "se dit d'un milieu très riche en éléments minéraux utilisables par la végétation."
+    },
+    {
+        "id" : 138,
+        "label" : "exondé",
+        "description" : "se dit d'un terrain émergé après inondation."
+    },
+    {
+        "id" : 139,
+        "label" : "fasciculés(ées)",
+        "description" : "se dit d'organes semblables, d'égale grandeur et réunis en faisceaux ou en touffes."
+    },
+    {
+        "id" : 140,
+        "label" : "faux-épi",
+        "description" : "inflorescence en panicule très contractée et allongée, ressemblant ansi à un épi."
+    },
+    {
+        "id" : 141,
+        "label" : "faux-fruit",
+        "description" : "organe composite gén. charnu formé par le déceloppement u réceptacle (ex. la fraise, la pomme ) ou d'un autre organe ( ex. pédoncule floral, bractée pour l'ananas ), en plus des carpelles qui se développent en 'vrais' fruits."
+    },
+    {
+        "id" : 142,
+        "label" : "femelle",
+        "description" : "se dit d'une fleur avec un gynécée, mais dépourvue d'androcée fonctionnel."
+    },
+    {
+        "id" : 143,
+        "label" : "filet(un)",
+        "description" : "partie ingérieure de l'étamine, portant l'anhtère."
+    },
+    {
+        "id" : 144,
+        "label" : "filiforme",
+        "description" : "se dit d'un organe très long et fin comme un fil."
+    },
+    {
+        "id" : 145,
+        "label" : "flexueux(se)",
+        "description" : "se dit d'un organe sinueux."
+    },
+    {
+        "id" : 146,
+        "label" : "florifère",
+        "description" : "se dit d'un organe qui porte les fleurs ( ex. tige florifère )."
+    },
+    {
+        "id" : 147,
+        "label" : "foliacé(e)",
+        "description" : "se dit d'un organe qui a l'apparence d'une feuille ( ex. bractée foliacée )."
+    },
+    {
+        "id" : 148,
+        "label" : "foliaire",
+        "description" : "qui concerne les feuilles ( ex. gaine foliaire, segement foliaire )."
+    },
+    {
+        "id" : 149,
+        "label" : "foliole(une)",
+        "description" : "division du limbe d'une feuille composée ; la foliole est constituée d'une portion de limbe identique, elle est toujours portée par un pétiole, parfois très court ( du latin foliolum, signifiant 'petites feuille' ), articulée sur un rachis et dépourvue de bourgeon axillaire ; l'ensemble des folioles et du rachis forme une feuille composée."
+    },
+    {
+        "id" : 150,
+        "label" : "follicule(un)",
+        "description" : "fruit sec déhiscent, provenant d'un seul carpelle gén. à plusieurs graines et s'ouvrant par une seule fente longitudinale ( ex. l'aconit napel, Aconitum napellus )."
+    },
+    {
+        "id" : 151,
+        "label" : "frangé(e)",
+        "description" : "se dit d'un organe dont la marge est pourvue de découpures profondes, fines, régulières et serrées les unes contre les autres."
+    },
+    {
+        "id" : 152,
+        "label" : "frênaie(une)",
+        "description" : "forêt dominée par les frênes."
+    },
+    {
+        "id" : 153,
+        "label" : "fronde(une)",
+        "description" : "'feuille' des Ptéridophytes portan les sporanges, le plus souvent à la face inf."
+    },
+    {
+        "id" : 154,
+        "label" : "fructifère",
+        "description" : "se dit d'un organe qui porte un ou plusieurs fruits ( ex. tige fructifère )."
+    },
+    {
+        "id" : 155,
+        "label" : "fruit",
+        "description" : "organe contenant les graines, provenant de la transformation d'un ou plusieurs ovaires après la fécondation."
+    },
+    {
+        "id" : 156,
+        "label" : "fusiforme",
+        "description" : "en forme de fuseau, c-à-d renflé au milieu et effilé aux deux extrémités."
+    },
+    {
+        "id" : 157,
+        "label" : "gaine(une)",
+        "description" : "portion inférieure élargie du pétiole d'une feuille, entourant plus ou moins étroitement la tige au niveau du noeud ; chez beaucoup de Monocodylédones, c'est le limbe foliaire qui forme une gaine sur une grande longueur de l'entrenoeud."
+    },
+    {
+        "id" : 158,
+        "label" : "genouillé(e)",
+        "description" : "se dit d'un organe brusquement plié en forme de genou."
+    },
+    {
+        "id" : 159,
+        "label" : "géophyte(une)",
+        "description" : "forme biologique des plantes dont les organes pérennes passent la siason défavorable dans le sol ; les géophytes peuvent être à bulbes, à tubercules ou à rhizomes ( ex. la tulipe sauvage, Tulipa sylvestris ; le muguet, Convallaria majalis )"
+    },
+    {
+        "id" : 160,
+        "label" : "glabre",
+        "description" : "se dit d'un organe complétement dépourvu de poils."
+    },
+    {
+        "id" : 161,
+        "label" : "glabrescent(e)",
+        "description" : "se dit d'un organe qui devient glabre avec l'âge"
+    },
+    {
+        "id" : 162,
+        "label" : "glande(une)",
+        "description" : "petite organe uni- ou pluricellulaire sécrétant une substance chimique spécifique ( ex. essence, résine, nectar), situé sur divers organes ( ex. tige, feuille, pétale )."
+    },
+    {
+        "id" : 163,
+        "label" : "glanduleux(se)",
+        "description" : "se dit d'un organe muni de glandes."
+    },
+    {
+        "id" : 164,
+        "label" : "glauque",
+        "description" : "se dit d'un organe qui présente une teinte vert bleuâtre."
+    },
+    {
+        "id" : 165,
+        "label" : "glauquescent(e)",
+        "description" : "se dit d'un organe qui présente avec l'âge une teinte bleuâtre."
+    },
+    {
+        "id" : 166,
+        "label" : "globuleux(se)",
+        "description" : "se dit d'un organe à peu près rond ou sphérique."
+    },
+    {
+        "id" : 167,
+        "label" : "glomérule(un)",
+        "description" : "groupe de fleurs subsessiles étroitement rapprochées."
+    },
+    {
+        "id" : 168,
+        "label" : "glume(une)",
+        "description" : "chez les Poacées, chacune des deux bractées insérées à la base de l'axe de chaque épillet."
+    },
+    {
+        "id" : 169,
+        "label" : "glumelle(une)",
+        "description" : "chez les Poacées, chacune des deux bractées insérées à la base du pédicelle de chaque fleur au sein de l'épillet ; la glumelle inf. est appelée 'lemme' et la sup. 'paléole'"
+    },
+    {
+        "id" : 170,
+        "label" : "glutineux(se)",
+        "description" : "se dit d'un organe gluant, visqeux ( ex. écailles des bourgeons de l'aulne glutineux, Alnus glutinosa )."
+    },
+    {
+        "id" : 171,
+        "label" : "gorge(une)",
+        "description" : "partie supérieure du tube de la corole, chez une fleur à pétales soudés entre eux."
+    },
+    {
+        "id" : 172,
+        "label" : "gousse(une)",
+        "description" : "fruit sec déhiscent des Fabacées, provenant d'un seul carpelle, gén. à graines nombreuses, s'ouvrant par deux fentes longitudinales ( rem. la 'gousse' d'ail est une appellation erronée )."
+    },
+    {
+        "id" : 173,
+        "label" : "graine(une)",
+        "description" : "chez les Spermatophytes, ovule fécondé et renfermant l'embryon."
+    },
+    {
+        "id" : 174,
+        "label" : "grappe(une)",
+        "description" : "inflorescence indérerminée formée d'un axe allongé portant à des niveaux différents, des fleurs plus ou moins longuement pédicellées ( syn. racème )."
+    },
+    {
+        "id" : 175,
+        "label" : "grêle",
+        "description" : "se dit d'un organe fin et fragile ( ex. tige grêle )."
+    },
+    {
+        "id" : 176,
+        "label" : "grimpante",
+        "description" : "qualifie une plante dont la tige s'élève en prenant appui sur son support, grâce à des crampons et à des vrilles ( ex. la clématite, Clematis vitalba )."
+    },
+    {
+        "id" : 177,
+        "label" : "gynécée(un)",
+        "description" : "ensemble des organes femelles d'une fleur, c-à-d des carpelles chacun constitué d'un ovaire, d'un style et d'un stigmate."
+    },
+    {
+        "id" : 178,
+        "label" : "gynostème(un)",
+        "description" : "chez les Orchidacées, pièce florale en forme de dolonne provenant de la soudure de l'androcée et du style, les thèques de l'unique étamine fertile occupant le sommet de cette colonne."
+    },
+    {
+        "id" : 179,
+        "label" : "halophile",
+        "description" : "se dit d'une plante croissant de préférence dans un milieu riche en sel."
+    },
+    {
+        "id" : 180,
+        "label" : "hampe(une)",
+        "description" : "axe dépourvue de feuilles et portant à son sommet une fleur ou une inflorescence."
+    },
+    {
+        "id" : 181,
+        "label" : "hasté(e)",
+        "description" : "en forme de fer de hallebarde, c-à-d pourvu(e) à la base de deux lobes étalés ( ex. feuille hastée )."
+    },
+    {
+        "id" : 182,
+        "label" : "hélicoïde",
+        "description" : "se dit d'une cyme unipare, chaque axe secondaire est formé alternativement à gauche et à droite ( hélicoïde )."
+    },
+    {
+        "id" : 183,
+        "label" : "héliophile",
+        "description" : "se dit d'une plante croissant de préférence en pleine lumière ( ant. sciaphile )."
+    },
+    {
+        "id" : 184,
+        "label" : "hélophyte(un)",
+        "description" : "forme biologique des plantes croissant enracinées dans la vase ; les bourgeons submergés sont protégés de la saison défavorable, mais les feuilles sont hors de l'eau ( ex. la salicaire, Lythrum salicaria )."
+    },
+    {
+        "id" : 185,
+        "label" : "hémicryptophyte(un)",
+        "description" : "forme biologique des plantes dont les bourgeons persistant durant l'hiver sont situés au niveau du sol ( ex. nombreuses Poacées pérennes )."
+    },
+    {
+        "id" : 186,
+        "label" : "hémiparasite",
+        "description" : "se dit d'une plante chlorophylienne se fixant sur une plante hôte pour y puiser "
+    },
+    {
+        "id" : 187,
+        "label" : "herbacé(e)",
+        "description" : "se dit d'une plante ayant une consistance souple, par opposition à ligneux."
+    },
+    {
+        "id" : 188,
+        "label" : "hérissé(e)",
+        "description" : "se dit d'un organe couvert de poils raides, gén. droits."
+    },
+    {
+        "id" : 189,
+        "label" : "hermaphrodite",
+        "description" : "se dit d'une fleur munit à la fois d'un androcée et d'un gynécée, par opposition aux fleurs unisexuées."
+    },
+    {
+        "id" : 190,
+        "label" : "hétérostachyé",
+        "description" : "se dit d'une inflorescence chez les Carex où les épis comprennant soit des fleurs femelles, soit des fleurs mâles ; les épis mâles sont gén. au sommet et les épis femelles situés plus bas sur la plante."
+    },
+    {
+        "id" : 191,
+        "label" : "hétérostylie(une)",
+        "description" : "présence, au sein d'une même espèce, de fleurs à styles de longueurs différentes ( ex. la primevère officinale, Primula veris )."
+    },
+    {
+        "id" : 192,
+        "label" : "hêtraie(une)",
+        "description" : "forêt dominée par les hêtres."
+    },
+    {
+        "id" : 193,
+        "label" : "hipside",
+        "description" : "se dit d'un organe garni de poils raides et presque dressés ( ex. la bourrache, Borago officinalis )."
+    },
+    {
+        "id" : 194,
+        "label" : "holoparasite(un)",
+        "description" : "végétal non chlorohyllien, dépendant obligatoirement d'une plante hôte pour y puisser grâce à des suçoirs, les substances nutritives nécessaires à sa croissance ( ex. les cuscutes, Suscuta sp )."
+    },
+    {
+        "id" : 195,
+        "label" : "homostachyé",
+        "description" : "se dit d'une inflorescence chez les Carex où les épis comprennent à la fois des fleurs femelles et des fleurs mâles."
+    },
+    {
+        "id" : 196,
+        "label" : "hyalin(e)",
+        "description" : "se dit d'un organe ou un tissu translucide."
+    },
+    {
+        "id" : 197,
+        "label" : "hybride(un)",
+        "description" : "plante dont les deux parents appartiennent à des espèces ou parfois à des sous-espèces différentes, relevant habituellement du même genre, plus rar. de deux genres voisins ( ex. le colza, Brassica napus, espèce présentant de nombreux hybrides )."
+    },
+    {
+        "id" : 198,
+        "label" : "hypanthium(un)",
+        "description" : "chez les Rosacées et Onagracées, réceptacle floral élargie, plan, concave ou convexe."
+    },
+    {
+        "id" : 199,
+        "label" : "hypochile(un)",
+        "description" : "partie proximale du labelle de certaines Orchidacées, la partie distale étant l'épichile."
+    },
+    {
+        "id" : 200,
+        "label" : "imbriqué(e)s",
+        "description" : "se dit d'organes se recouvrant partiellement comme les tuiles d'un toit ( ex. écailles imbriquées )."
+    },
+    {
+        "id" : 201,
+        "label" : "imparipennée",
+        "description" : "se dit d'une feuille composée-pennée à rachis terminé par une foliole, le nombre de folioles est donc impair."
+    },
+    {
+        "id" : 202,
+        "label" : "incisé(e)",
+        "description" : "se dit d'un organe présentant sur ses marges de profondes découpures, le plus souvent inégales."
+    },
+    {
+        "id" : 203,
+        "label" : "indéhiscent(e)",
+        "description" : "se dit d'un fruit ne s'ouvrant pas spontanément à maturaité ( ex. akènes, caryopses, la plupart des fruits charnus ; ant. déhiscent )."
+    },
+    {
+        "id" : 204,
+        "label" : "indigène",
+        "description" : "se dit d'une espèce qui a colonisé ou a évolué dans un territoire de manière naturelle, sans intervantion humaine ( syn. autochtone )."
+    },
+    {
+        "id" : 205,
+        "label" : "indusie(une)",
+        "description" : "chez les Ptéridophtyes, organe formé par un replit de l'épiderme protégeant un groupe de sporanges."
+    },
+    {
+        "id" : 206,
+        "label" : "infère",
+        "description" : "se dit d'un ovaire situé sous le point d'insertiojn du périanthe ( ant. supère )."
+    },
+    {
+        "id" : 207,
+        "label" : "inflorescence(une)",
+        "description" : "ensemble de fleurs et de bractées non séparées par de vraies feuilles."
+    },
+    {
+        "id" : 208,
+        "label" : "involucelle(un)",
+        "description" : "(i) chez les Apiacèes, ensemble de bractées insérées à la base d'une ombellule ; (ii) chez les Astéracées, verticille de bractées plus petites que celle de l'involucre et situées à l'éxtérieur de celui-ci"
+    },
+    {
+        "id" : 209,
+        "label" : "involucre(un)",
+        "description" : "ensemble de bractées insérées, souvent en verticille, à la base d'une ombelle, d'un capitule ou d'une fleur solitaire."
+    },
+    {
+        "id" : 210,
+        "label" : "labelle(un)",
+        "description" : "tépale antérieur médian de la fleur des Orchidacées, gén. plus grand que les autres et différant aussi, le cas échéant, quant à sa forme et à sa coloration ; ce tépale modifié est dirigé vers le bas par suite de la torsion de 180° de l'ovaire ( syn. lèvre )."
+    },
+    {
+        "id" : 211,
+        "label" : "laineux(se)",
+        "description" : "se dit d'un tomentum abondant, formé de longs poils très emmêlés ( ressemblant à de la laine )."
+    },
+    {
+        "id" : 212,
+        "label" : "lancéolé(e)",
+        "description" : "se dit d'un organe en forme de fer de lance, c-à-d 3à 4 fois plus long que large et se rétracissant progressivement vers les extrémités qui peuvent être aigües."
+    },
+    {
+        "id" : 213,
+        "label" : "latex(un)",
+        "description" : "liquide visqueux, souvent laiteux, sécrété par certaines plantes, mais ne se manifestant que lorsqu'on brise l'organe qui le produit ( ex. l'euphorbe réveille-matin, Euphorbia helioscopa )."
+    },
+    {
+        "id" : 214,
+        "label" : "lemme(une)",
+        "description" : "glumelle inférieure dans l'épillet des Poacées."
+    },
+    {
+        "id" : 215,
+        "label" : "lenticelle(une)",
+        "description" : "petite saillie se trouvant le plus souvent sur l'écorce jeune des plantes ligneuses, parfois sur d'autres organes, tels que les fruits, permettant la circulation de l'air."
+    },
+    {
+        "id" : 216,
+        "label" : "lèvre(une)",
+        "description" : "portion du calice ou des la corole de certaines fleurs à sym. bilatérale ( Lamiacées, Plantaginacées, Scrophulariacées, ... ) comprenent deux ou plusieurs pièces soudées et formant un ou plusieurs lobes."
+    },
+    {
+        "id" : 217,
+        "label" : "liane(une)",
+        "description" : "plante ligneuse grimpante à longues tiges flexibles prenant appui sur divers supports ( ex. le chèvrefeuille des bois, Lonicera periclymenum )."
+    },
+    {
+        "id" : 218,
+        "label" : "libre",
+        "description" : "se dit d'un organe qui n'est pas soudé à un autre organe de même nature."
+    },
+    {
+        "id" : 219,
+        "label" : "liégeux(se)",
+        "description" : "se dit d'un organe pouvur de liège, c-à-d d'un tissu protecteur secondaire, constitué de cellules mortes remplies d'air, donnant une certaine épaisseur à l'organe qu'il recouvre."
+    },
+    {
+        "id" : 220,
+        "label" : "ligule(une)",
+        "description" : "(i) chez les Poacées et certaines Cypéracées, petite languette membraneuse apparaissant à la limite de la gaine folliaire et du limbe, à l'intérieur de celui-ci ; (ii) chez les Astéracées, pétales prolongeant unilatéralement le tube de la corole des fleurs à sym bilatérale."
+    },
+    {
+        "id" : 221,
+        "label" : "ligulée",
+        "description" : "se dit d'une fleur dont le tube de la corole se prolonge en une ligule ( ex. certaines fleurs des Astéracées )."
+    },
+    {
+        "id" : 222,
+        "label" : "limbe(un)",
+        "description" : "partie élargie, plate et étalée des feuilles ou des pétales."
+    },
+    {
+        "id" : 223,
+        "label" : "linéaire",
+        "description" : "se dit d'un organe long et très étroit, à bords plus ou moins parallèles."
+    },
+    {
+        "id" : 224,
+        "label" : "lobe(un)",
+        "description" : "division d'une feuille ou d'un autre organe plan, en principe lorsque l'échancrure n'atteint pas le milieu de chaque moitié du limbe."
+    },
+    {
+        "id" : 225,
+        "label" : "lobé(e)",
+        "description" : "se dit d'un organe découpé par des échancrures arrondies et peu profondes, n'atteignant pas le milieu du limbe ( ex. limbe du chêne pédonculé, Quercus robur )."
+    },
+    {
+        "id" : 226,
+        "label" : "loge(une)",
+        "description" : "(i) cavité de l'ovaire délimitée par la paroi d'un carpelle unique ou par les parois de plusieurs carpelles soudés entre eux ; (ii) cavité d'un thèque, résultant de la fusion des deux sacs polliniques avant la libération des grains de pollen."
+    },
+    {
+        "id" : 227,
+        "label" : "lyrée(e)",
+        "description" : "se dit d'un organe découpe en segemnts dont le terminal est beaucoup plus grand que les latéraux."
+    },
+    {
+        "id" : 228,
+        "label" : "mâle",
+        "description" : "se dit d'une lfeur avec un androcée et dépourvue de gynécée fonctionnel ( ant. femelle )."
+    },
+    {
+        "id" : 229,
+        "label" : "médifixe",
+        "description" : "se dit d'un organe fixé par sa partie médiane."
+    },
+    {
+        "id" : 230,
+        "label" : "mère",
+        "description" : "suffix employé à la suite d'un nombre pour désigner le nombre ( ou un multiple de ce nombre ) de sépales et de pétales ou de tépales ( ex. une fleur dite 4-mère, pourra avoir 4 sépales, 4 pétales ou 8 sépales, 4 pétales ou une autre combinaison multiple de 4 )."
+    },
+    {
+        "id" : 231,
+        "label" : "membraneux(se)",
+        "description" : "mince et transparente comme une membrane."
+    },
+    {
+        "id" : 232,
+        "label" : "mésophile",
+        "description" : "se dit d'une plante d'une communauté végétale croissant de préférence sur un substrat présentant un degré moyent d'humidité, c-à-d ni trop sec ni trop humide."
+    },
+    {
+        "id" : 233,
+        "label" : "mésotrophe",
+        "description" : "se dit d'un milieu moyennement richer en éléments nutritifs assimilables."
+    },
+    {
+        "id" : 234,
+        "label" : "moder(un)",
+        "description" : "type d'humus forestier mésotrophe, à litière moyennement épaisse."
+    },
+    {
+        "id" : 235,
+        "label" : "monoïque",
+        "description" : "se dit d'une plante possédant des fleurs unisexuées mâles et femelles apparaissant sur un même individu, mais gén. à des niveaux différents ( ex. le noisetier, Corylus avellana ; ant. dioïque )."
+    },
+    {
+        "id" : 236,
+        "label" : "mor(un)",
+        "description" : "type d'humus forestier oligotrohpe, inactif, très acide, à litière très épaisse."
+    },
+    {
+        "id" : 237,
+        "label" : "mucron(un)",
+        "description" : "pointe raide très courte terminant un organe."
+    },
+    {
+        "id" : 238,
+        "label" : "mull(un)",
+        "description" : "type d'humus forestier actif, alcalin à légérement acide, eutrophe à légèrement mésotrophe, caractérisé par une discontinuité brutale entre la litière de faible épaisseur et les horizons minéraux sous-jacents."
+    },
+    {
+        "id" : 239,
+        "label" : "naturalisé(e)",
+        "description" : "se dit d'une espèce originaire d'une autre région que le territoire étudié et qui s'est répandue ensuite naturellement au point d'être intégrée à la flore indigène. On considère que les espèces introduites naturalisées sur une période de 100 ans sont devenues indigènes."
+    },
+    {
+        "id" : 240,
+        "label" : "nectaire(un)",
+        "description" : "organe essentiellement floral ( mais aussi sur bourgeon, feuille ou pétiole ) glanduleux sécrétant et excrétant le nectar, liquide sucré attirant les pollinisateurs ( ex. nectaires du pétiole chez les Prunus )."
+    },
+    {
+        "id" : 241,
+        "label" : "nervation(une)",
+        "description" : "disposition des nervures dans le limbe foliaire."
+    },
+    {
+        "id" : 242,
+        "label" : "nitrophile",
+        "description" : "se dit d'une espèce croissant préférentiellement sur un substrat riche en composés azotés."
+    },
+    {
+        "id" : 243,
+        "label" : "noeud(un)",
+        "description" : "partie, parfois renflée, d'un axe au niveau duquel s'insère(nt) une ou plusieurs feuilles."
+    },
+    {
+        "id" : 244,
+        "label" : "noyau(un)",
+        "description" : "partie centrale des drupes et drupéoles, constituées de l'endocarpe sclérifié qui entoure la graine."
+    },
+    {
+        "id" : 245,
+        "label" : "ob",
+        "description" : "préfixe signifiant 'à l'envers' ( ex. obovale, qualifie un limbe foliaire ovale mais dont la plus grande largeur est au-dessus du milieu )."
+    },
+    {
+        "id" : 246,
+        "label" : "oblong(ue)",
+        "description" : "nettement plus long que large, à côtés plus ou moins parallèles."
+    },
+    {
+        "id" : 247,
+        "label" : "obtus(e)",
+        "description" : "se dit d'un organe à sommer non aigu, plutôt arrondi."
+    },
+    {
+        "id" : 248,
+        "label" : "ochréa(un)",
+        "description" : "chez les Polygonacées, gaine membraneuse entourant la tige au-dessus de chaque noeud, au niveau de l'insertion des feuilles et provenant de la soudure des stipules."
+    },
+    {
+        "id" : 249,
+        "label" : "oligotrophe",
+        "description" : "se dit d'un milieu pauvre en nutriments assimilables."
+    },
+    {
+        "id" : 250,
+        "label" : "ombelle(une)",
+        "description" : "inflorescence dont les fleurs sont portées par des pédicelles de même longeur insérés soit au sommet de la tige principale ( ombelle simple ), soit au sommet des rayons égaux prlongeant le pédoncule floral ( ombelle composée ) ( ex. chez les Apiacées )."
+    },
+    {
+        "id" : 251,
+        "label" : "ombellule(une)",
+        "description" : "ombelle secondaire portée par l'un des rayons d'une ombelle composée."
+    },
+    {
+        "id" : 252,
+        "label" : "ondulé(e)",
+        "description" : "se dit d'un organe présentant des ondulations ou des sinuosités."
+    },
+    {
+        "id" : 253,
+        "label" : "onglet(un)",
+        "description" : "partie inférieure rétrécie d'un pétale."
+    },
+    {
+        "id" : 254,
+        "label" : "opposé(e)s",
+        "description" : "se dit d'organes insérés au même niveau d'un axe l'un en face de l'autre ( ex. des feuilles opposées )."
+    },
+    {
+        "id" : 255,
+        "label" : "orbiculaire",
+        "description" : "se dit d'un organe en forme de cercle."
+    },
+    {
+        "id" : 256,
+        "label" : "oreillette(une)",
+        "description" : "expansion de la base du limbe au-delà et de part et d'autre du point d'insertion d'une feuille embrassante ( ex. certaines Poacées, Astéracées )."
+    },
+    {
+        "id" : 257,
+        "label" : "ovaire(un)",
+        "description" : "partie inférieure gén. renflée du gynécée ( ou de chaque carpelle lorsque le gynécée est formé de carpelles libres ) creusée d'une ou de plusieurs cavités closes contenant un ou plusieurs ovules."
+    },
+    {
+        "id" : 258,
+        "label" : "ovale",
+        "description" : "se dit d'une feuille dont la forme correspond à celle d'un oeuf en coupe longitudinale et dont la plus grande largeur est donc située du côté du point d'insertion."
+    },
+    {
+        "id" : 259,
+        "label" : "ovoïde",
+        "description" : "se dit d'un organe ayant la forme d'un oeuf."
+    },
+    {
+        "id" : 260,
+        "label" : "ovule(un)",
+        "description" : "organe naissant du placenta à l'intérieur de l'ovaire, abritant l'embryon après fécondation et évoluant en graine à maturité."
+    },
+    {
+        "id" : 261,
+        "label" : "paillette(une)",
+        "description" : "petite écaille membraneuse plus ou moins translucide, insérée entre les fleurs sur le réceptacle de l'inflorescence de certaines Astéracées et Dipsacacées."
+    },
+    {
+        "id" : 262,
+        "label" : "paléole(une)",
+        "description" : "glumelle supérieure dans l'épillet des Poacées."
+    },
+    {
+        "id" : 263,
+        "label" : "palmatifide",
+        "description" : "se dit d'une feuille simple à nervation palmée et découpée de sorte que les divisions principales ( 'découpures' ou 'sinus' ) atteignent environ la moitiée de la longeur du limbe."
+    },
+    {
+        "id" : 264,
+        "label" : "palmatilobé(e)",
+        "description" : "se dit d'une feuille simple à nervation palmée et découpée en lobes arrondis."
+    },
+    {
+        "id" : 265,
+        "label" : "palmatipartite",
+        "description" : "se dit d'une feuille simple à nervation palmée et découpée de sorte que les divisions principales ( 'découpures' ou 'sinus' pour être exact ) atteignent environ la moitiée de la longueur du limbe ou la dépassent largement."
+    },
+    {
+        "id" : 266,
+        "label" : "palmatiséqué(e)",
+        "description" : "se dit d'une feuille simple à nervation palmée et découpée de sorte que les divisions principales ( 'découpures' ou 'sinus' ) dépassent largement la moitiée de la longueur du limibe ; les segments foliaires sont alors à peine soudés entre eux à la base et paraissent, dans certains cas, complétement distincts ( attention de ne pas confondre une feuille simple palmatiséquée et une feuille composée : les segements d'une feuille palmatiséqueée sont distincts, mais pas articulés séparément comme les folioles d'une feuille composée )."
+    },
+    {
+        "id" : 267,
+        "label" : "palmée",
+        "description" : "a) se dit de la nervation d'une feuille dont le limbe folaire présente des nervures primaires ( gén. 4-5 ) divergentes à partir du sommet du pétiole, c-à-d disposéees en éventail ; b) se dit aussi d'une feuille composée de folioles disposées comme les doigts de la main."
+    },
+    {
+        "id" : 268,
+        "label" : "panicule(une)",
+        "description" : "inflorescence composée, constituée d'un axe allongé sur lequel sont insérées des inflorescences simples à fleurs pédicellées ; une panicule peut donc être une grappe de grappes, une grappe de cymes."
+    },
+    {
+        "id" : 269,
+        "label" : "papilionacée",
+        "description" : "se dit de la corolle des Fabacées, composée de 5 pétales inégaux et pour la plupart libre entre eux, 1 étendard, 2 ailes et 1 carène formée de 2 pétales plus ou moins longuement soudés."
+    },
+    {
+        "id" : 270,
+        "label" : "papille(une)",
+        "description" : "protubérance externe d'une cellule ou d'un groupe de cellules épidermique caractéristique de certains organes ( ex. des papilles épidermiques des pétales ches Rosa, papilles stigmatiques chez beaucoup d'Astéracées )."
+    },
+    {
+        "id" : 271,
+        "label" : "papilleux(se)",
+        "description" : "couvert de papilles."
+    },
+    {
+        "id" : 272,
+        "label" : "pappus(un)",
+        "description" : "chez certaines Astéracées, calice modifiée en une couronne d'arêtes, d'écailles ou de poils ( soies ) surmontant l'ovaire ; dans ce dernier cas, le pappus est accrescent et deviendra une aigrette surmontant l'akène à maturité."
+    },
+    {
+        "id" : 273,
+        "label" : "paracorole(une)",
+        "description" : "ensemble des appendices, éventuellement soudés entre eux, insérés à la face interne de la corole ou du périgone et présentant parfois la forme d'un cylindre ou d'une cloche ( ex. la jonquille, Narcissus pseudonarcissus )."
+    },
+    {
+        "id" : 274,
+        "label" : "parallèle",
+        "description" : "se dit d'une nervation dont les nervures, parallèles entre elles, ont pratiquemetn toutes la même importance."
+    },
+    {
+        "id" : 275,
+        "label" : "paripennée",
+        "description" : "se dit d'une feuille composée-pennée à rachis terminé par un mucron ou par une vrille, ne possédant pas de foliole terminale, le nombre de folioles est donc pair."
+    },
+    {
+        "id" : 276,
+        "label" : "parthénocarpique",
+        "description" : "se dit d'une plante capable de produire des fruits sans qu'il n'y ait eu fécondation des ovules ; les fruits ainsi produits ne continnent pas de graines."
+    },
+    {
+        "id" : 277,
+        "label" : "pectiné(e)",
+        "description" : "se dit d'un organe présentant des divisions étroites et opposées sur deux rangs, comme les dents d'un peigne."
+    },
+    {
+        "id" : 278,
+        "label" : "pédalée",
+        "description" : "se dit d'une nervation d'une feuille où 3 nervures rayonnent à partir du même point et sur les 2 nervures latérales se développent des ramifications toujours orientées vers le bas."
+    },
+    {
+        "id" : 279,
+        "label" : "pédicelle(un)",
+        "description" : "petit axe d'une inflorescence portant une seule fleur à son sommet."
+    },
+    {
+        "id" : 280,
+        "label" : "pédicellé(e)",
+        "description" : "se dit d'une lfeur pourvue d'un pédicelle."
+    },
+    {
+        "id" : 281,
+        "label" : "pédoncule(un)",
+        "description" : "axe d'une inflorescence subdivisé en pédicelles, ou axe d'une fleur solitaire axillaire."
+    },
+    {
+        "id" : 282,
+        "label" : "pédonculé(e)",
+        "description" : "se dit d'une inflorescence ou d'une fleur pourvue d'un pédoncule."
+    },
+    {
+        "id" : 283,
+        "label" : "pleté(e)",
+        "description" : "se dit d'un organe orbiculaire fixé approximativement par le centre ( ex. feuille peltée de l'écuelle-d'eau, Hydrocotyle vulgaris )."
+    },
+    {
+        "id" : 284,
+        "label" : "pennatifide",
+        "description" : "se dit d'une feuille simple à nervation pennée et découpée de sorte que les divisions principales ( 'découpures' ou 'sinus' ) atteignent environ la moitiée de la largeur de chaque demi-limbe."
+    },
+    {
+        "id" : 285,
+        "label" : "pennatilobée",
+        "description" : "se dit d'une feuille simple dont le limbe est à nervation pennée et lobée de sorte que les lobes n'atteignent pas la moitiée de la largeur de chaque demi-limbe."
+    },
+    {
+        "id" : 286,
+        "label" : "pennatipartite",
+        "description" : "se dit d'une feuille simple à nervation pennée et découpée de sorte que les divisions principales ( 'découpures' ou 'sinus' ) atteignent ou dépassent légèrement la moitié de la largeur de chaque demi-limbe."
+    },
+    {
+        "id" : 287,
+        "label" : "pennatiséquée",
+        "description" : "se dit d'une feuille simple à nervation pennée et découpée de sorte que les divisions principales ( 'découpures' ou 'sinus' ) dépassent largement la moitiée de la largeur de chaque demi-limbe, voire atteignent la nervure centrale ; les segments foliaires peuvent être à peine soudés entre eux à la base, au niveau de la nervure principale et paraissent, dans certains cas, complétement distincts ( attention de ne pas confondre une feuille simple pennatiséquée et une feuille composée : pour rappel, les segments d'une feuille pennatiséquée sont distincts, mais pas articulés séparément sur l'axe principal comme les folioles d'une feuille composée )."
+    },
+    {
+        "id" : 288,
+        "label" : "penne(une)",
+        "description" : "chez les Ptéridophytes, segment de primer ordre d'une fronde composée."
+    },
+    {
+        "id" : 289,
+        "label" : "pennée",
+        "description" : "se dit d'une feuille simple ou composée dont les nervures secondaires ou les folioles sont disposées de chque côté de la nervure médiane comme les barbes d'une plume."
+    },
+    {
+        "id" : 290,
+        "label" : "pépin(un)",
+        "description" : "graine d'une baie."
+    },
+    {
+        "id" : 291,
+        "label" : "pérenne",
+        "description" : "se dit d'une plante qui peut vivre durant plusieurs années ( syn. vivace )."
+    },
+    {
+        "id" : 292,
+        "label" : "perfoliée",
+        "description" : "se dit d'une feuille sessile embrassante la tige et paraissant traversée par celle-ci."
+    },
+    {
+        "id" : 293,
+        "label" : "perianthe(un)",
+        "description" : "ensemble des pièces florales ( calice et corole ) qui entourent l'androcée et\/ou le gynécée."
+    },
+    {
+        "id" : 294,
+        "label" : "péricarpe(un)",
+        "description" : "paroi du fruit."
+    },
+    {
+        "id" : 295,
+        "label" : "périgone(un)",
+        "description" : "enveloppe florale comprenant des pièces toutes semblables appelées tépales, sans distinction de pétales et sépales ( ex. chez de nombreuses monocotylédones )."
+    },
+    {
+        "id" : 296,
+        "label" : "persistant(e)",
+        "description" : "se dit d'un organe restant en place au-delà du terme de la période de végétation ( calice, stipules... ) ; dans le cas de feuilles, désigne un feuillage 'toujours vert', c-à-d un feuillage se renouvelant de façon échelonnée tout au long de l'année."
+    },
+    {
+        "id" : 297,
+        "label" : "pétale(un)",
+        "description" : "pièce du verticille interne du périanthe, élément de base de la corole, gén. vivement coloré."
+    },
+    {
+        "id" : 298,
+        "label" : "pétaloïde",
+        "description" : "se dit d'organe ( gén. tépale ) ressemblant à un pétale, vivement coloré."
+    },
+    {
+        "id" : 299,
+        "label" : "pétiole(un)",
+        "description" : "partie inférieur d'une feuille reliant le limbe à la tige."
+    },
+    {
+        "id" : 300,
+        "label" : "pétiolule(un)",
+        "description" : "petit pétiole portant le limbe d'une foliole ches les Spermatophytes ou d'une pinnule chez les Ptéridophytes."
+    },
+    {
+        "id" : 301,
+        "label" : "pétiolulé(e)",
+        "description" : "se dit d'un organe pourvu d'un pétiolule."
+    },
+    {
+        "id" : 302,
+        "label" : "phanérophyte(un)",
+        "description" : "forme biologique des plantes dont les bourgeons persistant durant l'hiver sont portés à plus de 50 cm de hauteur."
+    },
+    {
+        "id" : 303,
+        "label" : "pilosité(une)",
+        "description" : "manière dont un organe est couvert de poils."
+    },
+    {
+        "id" : 304,
+        "label" : "pinnule(une)",
+        "description" : "chez les Ptéridophytes, subdivision d'une penne ou division secondaire."
+    },
+    {
+        "id" : 305,
+        "label" : "pionnier(ère)",
+        "description" : "se dit d'une plante ou d'une végétation qui s'installe sur un substrat nu ( rochers, éboulis, terrains défrichés ou incendiés )."
+    },
+    {
+        "id" : 306,
+        "label" : "pistil(un)",
+        "description" : "synonyme de gynécée."
+    },
+    {
+        "id" : 307,
+        "label" : "pivotante",
+        "description" : "se dit d'une racine principale, nettemetn plus développée que les radicelles, s'enfonçant verticalement des le sol."
+    },
+    {
+        "id" : 308,
+        "label" : "plumeux(se)",
+        "description" : "se dit d'un organe muni de poils fins disposés comme les barbes d'une plume."
+    },
+    {
+        "id" : 309,
+        "label" : "poilu(e)",
+        "description" : "se dit d'un organe garni de poils plus ou moins allongés."
+    },
+    {
+        "id" : 310,
+        "label" : "pollen",
+        "description" : "terme collectif désignant l'ensemble des corpuscules microscopiques ( 'grains' de pollen ) formés dans les anthères et assurant la fonction de gamète mâle dans le cycle de reproduction des Spermatophytes."
+    },
+    {
+        "id" : 311,
+        "label" : "pollinie(une)",
+        "description" : "chez les Orchidacées, masse de pollen aggloméré qui peut être transportée en bloc par les insectes."
+    },
+    {
+        "id" : 312,
+        "label" : "pollinisation(une)",
+        "description" : "transport du pollen depuis les anthères sur les stigmate d'une fleur chez les Angiospermes, d'un cône mâle à un cône femelle ches les Gymnospermes."
+    },
+    {
+        "id" : 313,
+        "label" : "ponctué(e)",
+        "description" : "se dit d'un organe marqué de ponctuations ou de petites taches."
+    },
+    {
+        "id" : 314,
+        "label" : "préfoliaison",
+        "description" : "disposition des feuilles dans le bourgeon ; chez les Poacées, la préfoliaison est dite (pliée' si la dernière feuille est pliée en deux à l'intérieur de l'avant-dernière feuille, elle est 'enroulée' si la dernière feuille est enroulée à l'intérieur de l'avant-dernière."
+    },
+    {
+        "id" : 315,
+        "label" : "proximal(e)",
+        "description" : "se dit d'un organe proche de la base ou du lieu d'insertion d'un autre organe ( ant. distal, syn. basal )."
+    },
+    {
+        "id" : 316,
+        "label" : "pruineux(se)",
+        "description" : "se dit d'un organe couvert d'un revêtement d'apparence farineuse s'enlevant facilement au toucher ( ex. ce qui recouvre certains fruits comme les prunes, les raisins )."
+    },
+    {
+        "id" : 317,
+        "label" : "pubescent(e)",
+        "description" : "se dit d'un organe couvert de poils courts et souples formant un fin duvet."
+    },
+    {
+        "id" : 318,
+        "label" : "pyriforme",
+        "description" : "se dit d'un organe en forme de poire."
+    },
+    {
+        "id" : 319,
+        "label" : "pyxide(une)",
+        "description" : "fruit sec ( capsule ) déhiscent par une fente transversale circulaire délimitant deux parties, la supérieure ( opercule ) s'enlevant comme un couvercle."
+    },
+    {
+        "id" : 320,
+        "label" : "rachis(un)",
+        "description" : "chez les Angiospermes, axe principal portant les folioles et paraissant prolonger le pétiole sur une feuille composée-pennée ; ches les Ptéridophytes, axe portant les pennes."
+    },
+    {
+        "id" : 321,
+        "label" : "racine(une)",
+        "description" : "organe souterrain de la plante assurant l'ancrage dans le sol et la nutrition du végétal ( absorption d'eau et de sels minéraux grâce à des poils absorbants )."
+    },
+    {
+        "id" : 322,
+        "label" : "radiaire",
+        "description" : "caractérise la structure d'un organe comportant au moins deux plans de sym. ( ant. bilatérale )."
+    },
+    {
+        "id" : 323,
+        "label" : "radicant(e)",
+        "description" : "se dit d'un organe produisant des racines adventives."
+    },
+    {
+        "id" : 324,
+        "label" : "rampant(e)",
+        "description" : "se dit d'une plante ou d'un organe qui croit horizontalement sur le substrat."
+    },
+    {
+        "id" : 325,
+        "label" : "rayon(un)",
+        "description" : "axe portant une ombellule dans une ombelle composée."
+    },
+    {
+        "id" : 326,
+        "label" : "réceptacle(un)",
+        "description" : "(i) extrémité de l'axe de la fleur, parfois très court, sur lequel sont insérées les pièces florales ; cet axe apparait souvent comme un élargissement du sommet du pédicelle floral ( Rosacées ) ; (ii) partie élargie du pédoncule portant les fleurs d'un capitule ( Astéracées )."
+    },
+    {
+        "id" : 327,
+        "label" : "réfléchi(e)",
+        "description" : "se dit d'un organe recourbé vers le bas d'envirion 180° par rapport à la direction initiale."
+    },
+    {
+        "id" : 328,
+        "label" : "réfracté(e)",
+        "description" : "se dit d'un organe, un pédicelle notamment, dirigé vers le bas."
+    },
+    {
+        "id" : 329,
+        "label" : "rejet(un)",
+        "description" : "pousse végétative apparaissant à la base d'une tige ou sur une souche."
+    },
+    {
+        "id" : 330,
+        "label" : "renflé(e)",
+        "description" : "se dit d'un organe épaissie, élargi."
+    },
+    {
+        "id" : 331,
+        "label" : "réniforme",
+        "description" : "se dit d'un organe en forme de rein."
+    },
+    {
+        "id" : 332,
+        "label" : "réticulée",
+        "description" : "se dit d'une nervation dont tous les éléments sont d'importance à peu près égale et forment un réseau serré."
+    },
+    {
+        "id" : 333,
+        "label" : "rhizome(un)",
+        "description" : "tige souterraine portan des feuilles écailleuse, des racines adventives et émettant des poucces aériennes."
+    },
+    {
+        "id" : 334,
+        "label" : "rhomboïdal(e)",
+        "description" : "se dit d'un organe en forme de losange."
+    },
+    {
+        "id" : 335,
+        "label" : "rosette(une)",
+        "description" : "groupe de feuille basilaires étalées sur le sol et insérées au niveau du collet."
+    },
+    {
+        "id" : 336,
+        "label" : "rostellum(un)",
+        "description" : "chez les Orchidacèes, appendice en forme de bec ou parfois subglobuleux, situé vers le sommet de la colonne centrale de la fleur ( gynostème ) ; il proviendrait de la transformation d'un stigmate stérile."
+    },
+    {
+        "id" : 337,
+        "label" : "rudérale",
+        "description" : "se dit d'une espèce ou d'une végétation croissant dans un site rudéralisé."
+    },
+    {
+        "id" : 338,
+        "label" : "rudéralisé",
+        "description" : "se dit d'un site fortement désorganisé par une activité humaine ( décombres, terrains vagues, bords de chemins, terrils, ballast des voies ferrées... )."
+    },
+    {
+        "id" : 339,
+        "label" : "sac(un)",
+        "description" : "excroissance bossue à la base de la corole ( ex. fleur de muflier, Antirrhinum majus )."
+    },
+    {
+        "id" : 340,
+        "label" : "sagitté(e)",
+        "description" : "en forme de fer de flèche."
+    },
+    {
+        "id" : 341,
+        "label" : "samare(une)",
+        "description" : "akène muni d'une aile membraneuse ; disamare : 2 akènes pourvus tous deux d'une aile et plus ou moins longuement soudés entre eux ( ex. fruit de l'érable sycomore, Acer pseudoplatanus )."
+    },
+    {
+        "id" : 342,
+        "label" : "saprophyte",
+        "description" : "plante dépourvue de chlorophylle, vivant aux dépens de matière organique en décomposition."
+    },
+    {
+        "id" : 343,
+        "label" : "saulaie(une)",
+        "description" : "peuplement de saules ( syn. saussaie )."
+    },
+    {
+        "id" : 344,
+        "label" : "scabre",
+        "description" : "se dit d'un organe rude au toucher."
+    },
+    {
+        "id" : 345,
+        "label" : "scarieux(se)",
+        "description" : "se dit d'un organe de structure membraneuse, souvent translucide ou transparent."
+    },
+    {
+        "id" : 346,
+        "label" : "schizocarpe(un)",
+        "description" : "fruit sec déhiscent, provenant de carpelles soudés et se séparant à maturité en plusieurs parties."
+    },
+    {
+        "id" : 347,
+        "label" : "sciaphile",
+        "description" : "se dit d'une espèce tolérant un oombrage important ( ant. héliophile )."
+    },
+    {
+        "id" : 348,
+        "label" : "scorpioïde",
+        "description" : "se dit d'une cyme unipare, chaque axe secondaire est formé dans le même sens, ce qui donne une forme de crosse ou de queue de scorpion."
+    },
+    {
+        "id" : 349,
+        "label" : "segment(un)",
+        "description" : "division d'une limbe foliaire profondément découpé ; dans un limbe plusieurs fois penné, on donne le nom de segements foliaires aux dernières subdivisions reconnaissables."
+    },
+    {
+        "id" : 350,
+        "label" : "semi-infère",
+        "description" : "se dit d'un ovaire dont seule la moitié inférieure est enfoncée dans le réceptacle et y adhère."
+    },
+    {
+        "id" : 351,
+        "label" : "sépale(un)",
+        "description" : "pièce du verticille externe du périanthe, élément du calice."
+    },
+    {
+        "id" : 352,
+        "label" : "sépaloïde",
+        "description" : "se dit d'un organe ( gén. tépale ) verdâtre, semblable à un sépale."
+    },
+    {
+        "id" : 353,
+        "label" : "sessile",
+        "description" : "se dit d'un organe dépourvu de pétiole, de pédicelle ou de pédoncule."
+    },
+    {
+        "id" : 354,
+        "label" : "sétacé(e)",
+        "description" : "se dit d'un organe ayant la consistance d'une soie de porc."
+    },
+    {
+        "id" : 355,
+        "label" : "silicule(une)",
+        "description" : "silique courte, tout au plus 3 fois aussi longue que large."
+    },
+    {
+        "id" : 356,
+        "label" : "silique(une)",
+        "description" : "fruit sec, plus de 3 fois aussi long que large, s'ouvrant en principe en deux valves séparées par une cloison membraneuse sur les bords de laquelle sont attachées les graines, caractéristique des Brassicacées."
+    },
+    {
+        "id" : 357,
+        "label" : "sillonné(e)",
+        "description" : "se dit d'un organe creusé de sillons, de raies longitudinales."
+    },
+    {
+        "id" : 358,
+        "label" : "simple",
+        "description" : "se dit d'une feuille non subdivisée en folioles, d'une tige non ramifiée, d'une inflorescence non composée ( ant. composé )."
+    },
+    {
+        "id" : 359,
+        "label" : "sinué(e)",
+        "description" : "se dit d'une feuille dont le limbe présente des échancrures arrondies à peine marquées."
+    },
+    {
+        "id" : 360,
+        "label" : "sinus(un)",
+        "description" : "échancrure séparant deux lobes ou deux parties saillantes."
+    },
+    {
+        "id" : 361,
+        "label" : "soie(une)",
+        "description" : "poil long et raide."
+    },
+    {
+        "id" : 362,
+        "label" : "sore(un)",
+        "description" : "chez les Ptéridophytes, groupe de sporanges bien délimité par rapport aux autres."
+    },
+    {
+        "id" : 363,
+        "label" : "souche(une)",
+        "description" : "partie basale souterraine de la tige de plantes vivaces."
+    },
+    {
+        "id" : 364,
+        "label" : "sous-arbrisseau(un)",
+        "description" : "arbrisseau nain dont la taille est inférieure à 50 cm environ."
+    },
+    {
+        "id" : 365,
+        "label" : "spadice(un)",
+        "description" : "inflorescence des Aracées constituée d'un axe charnue, épais, portant des verticilles de fleurs sessiles ( femelels, mâles et stériles à deux niveaux différents ) et entourée par une spathe."
+    },
+    {
+        "id" : 366,
+        "label" : "spathe(une)",
+        "description" : "grande bractée membraneuse ou foliacèe entourant complétement une fleur ou une inflorescence avant son épanouissement ( ex. la ciboulette, Allium schoenoprasum, le gouet tacheté, Arum maculatum )."
+    },
+    {
+        "id" : 367,
+        "label" : "spatulé(e)",
+        "description" : "se dit d'un organe élargi au sommet et atténué vers le bas."
+    },
+    {
+        "id" : 368,
+        "label" : "spiciforme",
+        "description" : "se dit d'une inflorescence dont la forme rappelle celle de l'èpi."
+    },
+    {
+        "id" : 369,
+        "label" : "spiralée",
+        "description" : "se dit d'une fleur dont la pièces ne sont pas groupées en verticilles concentriques, mais insérées à des niveaux différents du réceptacle en des points reliés entre eux par une spirale."
+    },
+    {
+        "id" : 370,
+        "label" : "spontané(e)",
+        "description" : "se dit d'une plante qui croit à l'état sauvage, dans le territoire considéré."
+    },
+    {
+        "id" : 371,
+        "label" : "sporange(un)",
+        "description" : "chez les Ptéridophytes et les Bryophytes, organe dans lequel se forment les spores."
+    },
+    {
+        "id" : 372,
+        "label" : "spore(une)",
+        "description" : "organe de la reproduction asexuée se formant dans un sporange, ches les Ptéridophytes."
+    },
+    {
+        "id" : 373,
+        "label" : "squamiforme",
+        "description" : "se dit de feuilles en forme d'écailles, imbriquées les unes dans les autres."
+    },
+    {
+        "id" : 374,
+        "label" : "staminal(e)",
+        "description" : "se dit d'un organe qui se rapporte aux étamines ( ex. tube staminal : organe résultant de la soudure latérale des filets des étamines )."
+    },
+    {
+        "id" : 375,
+        "label" : "staminode(un)",
+        "description" : "petit organe floral écailleux ou pétaloïde interprété comme le résultat de l'avortement d'une étameine et de sa modification."
+    },
+    {
+        "id" : 376,
+        "label" : "station(une)",
+        "description" : "site où croit une plante."
+    },
+    {
+        "id" : 377,
+        "label" : "stérile",
+        "description" : "se dit d'une plante ou d'une lfeur qui ne produit pas de graines, ou encore d'une étamine qui ne produit pas de pollen ( ant. fertile )."
+    },
+    {
+        "id" : 378,
+        "label" : "stigmate(un)",
+        "description" : "extrémité libre du gynécée ( carpelle ) ou du style, portant gén. des papilles, et plus ou moins visqueuse, disposée à recevoir les grains de pollen lors de la pollinisation."
+    },
+    {
+        "id" : 379,
+        "label" : "stipité(e)",
+        "description" : "se dit d'un organe surélevé et porté par un petit pied ( ex. gynécée de la fleur de certains saules )."
+    },
+    {
+        "id" : 380,
+        "label" : "stipule(une)",
+        "description" : "appendice foliaire gén. disposé en nombre pair, le plus souvent de nature foliacée ou membraneuse, situé de part et d'autre de la tige au niveau de l'insertion de la base du pétiole ( ou du limbe dans le cas de feuilles sessiles ) ou à la base des sépales ( Rosacées )."
+    },
+    {
+        "id" : 381,
+        "label" : "stipulé(e)",
+        "description" : "se dit d'un organe pourvu de stipules."
+    },
+    {
+        "id" : 382,
+        "label" : "stolon(un)",
+        "description" : "tige aréirinne rampante, apparaissant souvent comme un long rejet au départ d'une rosette de feuilles ou du collet et s'enracinant gén. au niveau des noeuds ( ex. le fraisier, Fragaria vesca )."
+    },
+    {
+        "id" : 383,
+        "label" : "stolonifère",
+        "description" : "se dit d'un organe qui possède des stolons."
+    },
+    {
+        "id" : 384,
+        "label" : "stomate(un)",
+        "description" : "couple de cellules épidermiques ménégeant entre elles une petite ouverture ( ostiole ) surmontant une cavité interne, l'ensemble contribuant à reguler les échanges gazeux entre l'atmosphère et les milieu interne de la feuille."
+    },
+    {
+        "id" : 385,
+        "label" : "strié(e)",
+        "description" : "se dit d'un organe marqué de lignes parallèles entre elles ou creusé de petits sillons parallèles entre eux."
+    },
+    {
+        "id" : 386,
+        "label" : "style(un)",
+        "description" : "partie du gynécée prolongeant l'ovaire et portant le(s) stigmate(s)."
+    },
+    {
+        "id" : 387,
+        "label" : "sub",
+        "description" : "préfixe signifiant presque ( ex. suborbiculaire, c-à-d presque circulaire )."
+    },
+    {
+        "id" : 388,
+        "label" : "subsessile",
+        "description" : "se dit d'un organe à pétiole ou pédicelle très court."
+    },
+    {
+        "id" : 389,
+        "label" : "submergé(e)",
+        "description" : "se dit d'un plante ou d'un organe croissant sous la surface de l'eau."
+    },
+    {
+        "id" : 390,
+        "label" : "subspontané(e)",
+        "description" : "se dit d'une plante cultivée, échappée des jardins, des parcs ou des champs, ne persistant souvent que peu de temps dans ses stations ou du moins ne se propageant pas en se mêlant à la flore indigène."
+    },
+    {
+        "id" : 391,
+        "label" : "subulé(e)",
+        "description" : "se dit d'un organe sui se termine insensiblement en pointe aigüe."
+    },
+    {
+        "id" : 392,
+        "label" : "succulent(e)",
+        "description" : "se dit d'une plante ou d'un organe gorgé d'eau, qui donne l'impression d'être charnu, d'être épais ( ex. feuilles des Sedum, 'plantes grasses' )."
+    },
+    {
+        "id" : 393,
+        "label" : "supère",
+        "description" : "se dit d'un ovaire situé au dessu du point d'insertion des enveloppes florales, libre du réceptacle sauf en soin point d'insertion basilaire ( ant. infère )."
+    },
+    {
+        "id" : 394,
+        "label" : "tannin(un)",
+        "description" : "substance phénolique, fréquente chez les plantes, capabe de rendre les cuirs imputrescibles ( ex. écorce de chêne, Quercus spp. )."
+    },
+    {
+        "id" : 395,
+        "label" : "taxon(un)",
+        "description" : "entité systèmatique concrète d'un rang quelconque ( variété, espèce, genre, famille, ordre )."
+    },
+    {
+        "id" : 396,
+        "label" : "tépale(un)",
+        "description" : "pièce florale colorée ou non, consitutant l'unique enveloppe florale, celle-ci n'étant pas différenciée en calice et corole."
+    },
+    {
+        "id" : 397,
+        "label" : "ternée",
+        "description" : "se dit d'une feuille simple divisée en 3 segments foliaires de dimension subégales."
+    },
+    {
+        "id" : 398,
+        "label" : "tétradyname",
+        "description" : "se dit d'une androcée à 6 étamines dont 4 étamines sont plus longues que les 2 autres ( ex. chez les Brassicacées )."
+    },
+    {
+        "id" : 399,
+        "label" : "tétrakène(un)",
+        "description" : "fruit sec constitué de 4 akènes plus ou moins soudés entre eux, se fragmentant à maturité ( ex. chez les Lamiacées )."
+    },
+    {
+        "id" : 400,
+        "label" : "thèque(une)",
+        "description" : "partie de l'anthère contenant les sacs polliniques, chaque étamine comprend gén. 2 thèques."
+    },
+    {
+        "id" : 401,
+        "label" : "thermophile",
+        "description" : "se dit d'une plante qui croit de préférence dans des sites chauds et ensoleillés."
+    },
+    {
+        "id" : 402,
+        "label" : "thérophyte(un)",
+        "description" : "forme biologique des plantes dont le cycle de vie, epuis la germination de la graine jusqu'à la maturation des graines, dure moins d'un an ( syn. annuel )."
+    },
+    {
+        "id" : 403,
+        "label" : "tomenteux(se)",
+        "description" : "se dit d'un organe couvert de poils longs, souples et entrecroisés, formant un feutrage plus ou moins épais à la surface de l'organe."
+    },
+    {
+        "id" : 404,
+        "label" : "tomentum(un)",
+        "description" : "pubescence blanche constituée de poils longs, souples et entrecroisés, formant un feutrage plus ou moins épais à la surface de l'organe."
+    },
+    {
+        "id" : 405,
+        "label" : "touradon(un)",
+        "description" : "buttes ou mottes arrondies, de 30 cm à 1 m de haut, formées par des plantes cespiteuses, en milieux très humides ou inondés qui se développpent sur leus anciennes racines et feuilles mortes ( ex. touradons de molinie, Molinia caerulea )."
+    },
+    {
+        "id" : 406,
+        "label" : "tourbière(une)",
+        "description" : "zone marécageuse, colonisée par la végétation, dont les conditions écologiques particulières ont permis la formation d'un sol constitué de matière organique non totalement décomposée ( tourbe )."
+    },
+    {
+        "id" : 407,
+        "label" : "traçant(e)",
+        "description" : "se dit d'une tige ou d'une racine qui s'étale sur le sol ou se développe horizontalement à faible profondeur."
+    },
+    {
+        "id" : 408,
+        "label" : "trifide",
+        "description" : "se dit d'un organe fendu en 3 parties"
+    },
+    {
+        "id" : 409,
+        "label" : "trifolié(e)",
+        "description" : "se dit d'une feuille composée à 3 folioles."
+    },
+    {
+        "id" : 410,
+        "label" : "trigone",
+        "description" : "se dit d'un organe présentant trois angles."
+    },
+    {
+        "id" : 411,
+        "label" : "tronqué(e)",
+        "description" : "se dit d'une organe dont le sommet est comme coupé par une ligne ou un plan ( ex. une fuille tronquée )."
+    },
+    {
+        "id" : 412,
+        "label" : "tube(un)",
+        "description" : "partie inférieure d'une corole, d'un calice ou d'un périogone, formée par la soudure des pétales, des sépales ou des tépales."
+    },
+    {
+        "id" : 413,
+        "label" : "tubercule(un)",
+        "description" : "(i) renflement d'une tige souterraine emmagasinant des substances de réserve ; (ii) petite excroissance arrondie ( plus grande qu'une papille ) caractéristique de certains organes tels les graines."
+    },
+    {
+        "id" : 414,
+        "label" : "tubulée",
+        "description" : "se dit d'une fleur composée d'un tuble cylindrique se terminant par 5 lobes ou dents, provenant de 5 pétales soudés ( ex. fleurs tubulées de certaines Astéracées )."
+    },
+    {
+        "id" : 415,
+        "label" : "turbion(un)",
+        "description" : "jeune pousse naissant sur le rhizome ou sur la souche des plantes vivaces."
+    },
+    {
+        "id" : 416,
+        "label" : "unilatéral(e)",
+        "description" : "se dit lorsqu'un ensemble d'organes est situé ou tourné d'un seul côté."
+    },
+    {
+        "id" : 417,
+        "label" : "unipare",
+        "description" : "se dit d'un cyme dont chaque ramification donne un seul axe secondaire, soit toujours dans le même sens ( scorpioïde ), soit alternativement à gauche et à droite ( hélicoïde )."
+    },
+    {
+        "id" : 418,
+        "label" : "unisexuée",
+        "description" : "se dit d'une fleur ou d'une plante portant les organes reproducteurs d'un seul sexe, soit un androcée soit un gynécée."
+    },
+    {
+        "id" : 419,
+        "label" : "urticant(e)",
+        "description" : "se dit d'une plante ou d'un organe dont le contact provoque sur la peau une sensation de brulure ( ex. les poils urticants de l'ortie, Urtica dioica )."
+    },
+    {
+        "id" : 420,
+        "label" : "utricule(un)",
+        "description" : "(i) organe en forme de petit sac entourant l'ovaire dont seuls les stigmates émergeant par le col sont visibles ( dans le genre Carex ) ; (ii) feuille aquatique modifiée, de l'ordre du millimètre, destinée à la capture de microorganismes, chez le genre Utricularia."
+    },
+    {
+        "id" : 421,
+        "label" : "valve(une)",
+        "description" : "chacune des parties de la paroi d'un fruit sec déhiscent."
+    },
+    {
+        "id" : 422,
+        "label" : "variété(une)",
+        "description" : "unité systématique de rang inférieur à l'espèce."
+    },
+    {
+        "id" : 423,
+        "label" : "velouté(e)",
+        "description" : "qui a l'aspect du velours, c-à-d couvert de poils fins et courts, très denses, doux au toucher ( ex. chez certaines espèces du genre Ophrys le labelle est velouté )."
+    },
+    {
+        "id" : 424,
+        "label" : "velu(e)",
+        "description" : "se dit d'un organe couvert de longs poils souples entremêlés."
+    },
+    {
+        "id" : 425,
+        "label" : "verticille(un)",
+        "description" : "ensemble ( plus de 2 ) d'organes de même nature insérés en cercle au même niveau autour d'un axe ( ex. un verticielle de feuilles )."
+    },
+    {
+        "id" : 426,
+        "label" : "vésicule(une)",
+        "description" : "organe renglé comme une petite vessie ; terme le plus souvent utilisé chez les algues ( organe servant de flotteur )."
+    },
+    {
+        "id" : 427,
+        "label" : "vivace",
+        "description" : "se dit d'une plante dont le cycle vital dure plus de deux ans ( sym. pérenne )."
+    },
+    {
+        "id" : 428,
+        "label" : "vivipare",
+        "description" : "se dit d'une plante ou d'un organe ( fleur, feuille... ) sur lequel ( ou au sein duquel à apparaissent des bourgeons végétatifs qui croissent et donnent une plantule pourvue le cas échéant de racines ; celle-ci peut se détacher et assurer la multiplication végétative."
+    },
+    {
+        "id" : 429,
+        "label" : "volubile",
+        "description" : "se dit d'une plante dont la tige s'enroule en spirale en grimpant autour d'un support."
+    },
+    {
+        "id" : 430,
+        "label" : "vrille(une)",
+        "description" : "organe modifié ( tige, feuille, foliole, inflorescence ), composé d'un ou de plusieurs filaments volubiles s'accrochant en s'enroulant en spirale autour d'un support ( ex. feuilles de plusieurs Fabacées )."
+    },
+    {
+        "id" : 431,
+        "label" : "xérophile",
+        "description" : "se dit d'une plante ou d'une végétation croissant de préférence dans des sites secs."
+    }
+]
+

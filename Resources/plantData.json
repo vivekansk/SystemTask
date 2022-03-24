@@ -1,0 +1,303 @@
+[
+    {
+        "id" : 1,
+        "latin_name" : "Viola reichenbachiana",
+        "french_name" : "Violette des bois",
+        "family" : "Violaceae",
+        "imageName" : "viola_reichenbachiana_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La Violette des bois est une plante vivace haute de 6 à 30 cm, à rosette foliaire souvent presque disparue à la floraison, à courte tige centrale et à tiges florifères latérales, feuillues et plus longues. Les feuilles sont plus longues que larges et en forme de cœur ou de rein."
+    },
+    {
+        "id" : 2,
+        "latin_name" : "Euphorbia amygdaloides",
+        "french_name" : "Euphorbe des bois",
+        "family" : "Euphorbiaceae",
+        "imageName" : "euphorbia_amygdaloides_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "L'Euphorbe des bois est une plante vivace, observable toute l'année. Elle passe l'hiver sous forme d'organes souterrains chargés en réserves. Cette plante contient un suc laiteux vénéneux (C'est du latex). Elle est violemment vomitive et purgative pour l'homme mais sans effet chez les abeilles "
+    },
+    {
+        "id" : 3,
+        "latin_name" : "Draba verna",
+        "french_name" : "Drave printanière",
+        "family" : "Brassicaceae",
+        "imageName" : "draba_verna_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Draba verna (synonyme ancien Erophila1 verna), la drave printanière, est une plante herbacée de la famille des Brassicacées."
+    },
+    {
+        "id" : 4,
+        "latin_name" : "Geranium sanguineum",
+        "french_name" : "Géranium sanguin",
+        "family" : "Geraniaceae",
+        "imageName" : "geranium_sanguineum_01",
+        "isFavourite": false,
+        "isFeatured": true,
+        "description" : "Le Géranium sanguin est une plante herbacée vivace, hérissée de longs poils étalés, possédant un rhizome horizontal épais, se développant jusqu'à 50 cm de haut. Du pied émergent de nombreuses tiges, poilues, de 10 à 40 cm , étalées ou dressées. Les feuilles opposées sont profondément divisées."
+    },
+    {
+        "id" : 5,
+        "latin_name" : "Stachys officinalis",
+        "french_name" : "Epiaire officinale",
+        "family" : "Lamiaceae",
+        "imageName" : "stachys_officinalis_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La bétoine officinale (Stachys officinalis) appelée aussi épiaire vulgaire est une vivace dressée, très rustique, que l'on peut rencontrer au bord des chemins, dans les prés et les haies. ... Les abeilles ne sont pas attirées par cette bétoine officinale"
+    },
+    {
+        "id" : 6,
+        "latin_name" : "Pilosella officinarum",
+        "french_name" : "Piloselle",
+        "family" : "Asteraceae",
+        "imageName" : "pilosella_officinarum_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La piloselle est une plante herbacée, aux feuilles longues pourvues de poils blancs et aux tiges dressées, portant des fleurs à capitule jaune. Atteignant 10 à 15 cm de haut, la piloselle produit un fruit en akène blanc grisâtre, surmonté d'une aigrette simple et composée de soies"
+    },
+    {
+        "id" : 7,
+        "latin_name" : "Potentilla sterilis",
+        "french_name" : "Potentille faux fraisier",
+        "family" : "Rosaceae",
+        "imageName" : "potentilla_sterilis_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La potentille faux fraisier, faux fraisier, fraisier stérile ou fraiserat est une espèce de plante vivace de la famille des Rosaceae ressemblant aux fraisiers."
+    },
+    {
+        "id" : 8,
+        "latin_name" : "Primulas veris",
+        "french_name" : "Primevère officinale",
+        "family" : "Primulaceae",
+        "imageName" : "primulas_veris_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Le coucou (Primula officinalis) appartient à la famille des Primulacées. Le genre Primula compte plus de 400 espèces de vivaces herbacées, parfois avec une souche ligneuse et un feuillage persistant. La primevère commune est très largement répandue en Europe et en Asie jusqu'à 2000m d'altitude. En dehors de la primevère des jardins (Primula spp.), la plus connue des espèces de primevère, le coucou, est particulièrement intéressante pour ses vertus médicinales ainsi que ses propriétés condimentaires aromatiques."
+    },
+    {
+        "id" : 9,
+        "latin_name" : "Helianthemum nummularium",
+        "french_name" : "Hélianthème commun",
+        "family" : "Cistaceae",
+        "imageName" : "helianthemum_nummularium_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Plante herbacée à fleurs jaunes disposées en épi et dont l'espèce la plus connue est appelée communément gerbe d'or ou herbe d'or. Lavande, marjolaine, hélianthème Et la rose que le luth vanta (Moréas, Pèlerin pass.,1891, p. 53)."
+    },
+    {
+        "id" : 10,
+        "latin_name" : "Carex humilis",
+        "french_name" : "Laîche humble",
+        "family" : "Cyperaceae",
+        "imageName" : "carex_humilis_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Tige haute de 3-10 cm, beaucoup plus courte que les feuilles longues de 20-40 cm, larges de 1-2 mm, raides, scabres, d'abord dressées et planes, puis étalées et canaliculées. Epis femelles 3-5, +/- sessiles, comprenant gén. 3 fleurs, répartis sur toute la tige et cachés partiellement par la gaine des bractées ; épi mâle terminal. Stigmates 3. Ecailles obtuses, mucronées, à bord membraneux blanc. Utricules longs de 3-3,5 mm, gris fauve, pubescents, bec court."
+    },
+    {
+        "id" : 11,
+        "latin_name" : "Allium schoenoprasum",
+        "french_name" : "Ciboulette",
+        "family" : "Liliaceae",
+        "imageName" : "allium_schoenoprasum_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La ciboulette ou civette (Allium schoenoprasum L.) est une plante aromatique de la famille des Amaryllidacées (anciennement Liliacées ou Alliacées), cultivée pour ses feuilles souvent utilisées comme condiment."
+    },
+    {
+        "id" : 12,
+        "latin_name" : "Orchis mascula",
+        "french_name" : "Orchis mâle",
+        "family" : "Orchidaceae",
+        "imageName" : "orchis_mascula_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : " Plante de la famille des Orchidaceae. Cette famille fait partie du groupe des Monocotylédones, avec des feuilles présentant des nervures parallèles et à fleurs apparemment formées d'une seule enveloppe florale, les sépales étant ici semblables aux pétales."
+    },
+    {
+        "id" : 13,
+        "latin_name" : "Sedum album",
+        "french_name" : "Orpin blanc",
+        "family" : "Crassulaceae",
+        "imageName" : "sedum_album_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Plante vivace, de 10 à 30 cm de haut. La tige est en partie couchée, simple. De la souche partent à la fois des rameaux stériles et des tiges florifères. La tige est pleine, avec une consistance herbacée, à section ronde."
+    },
+    {
+        "id" : 14,
+        "latin_name" : "Sedum forsterianum",
+        "french_name" : "Orpin de Forster",
+        "family" : "Crassulaceae",
+        "imageName" : "sedum_forsterianum_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "L'Orpin de Forster est une plante vivace verte ou glauque (vert bleuté), à tiges couchées presque ligneuses, hautes de 15 à 30 cm. Les feuilles sont linéaires, cylindriques, presque dressées, larges de 8 mm au maximum et munies d'une pointe courte au sommet."
+    },
+    {
+        "id" : 15,
+        "latin_name" : "Sedum rupestre",
+        "french_name" : "Orpin des roches",
+        "family" : "Crassulaceae",
+        "imageName" : "sedum_rupestre_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "L'orpin des rochers, orpin rupestre ou orpin réfléchi (Sedum rupestre) est une espèce de plante de la famille des Crassulaceae."
+    },
+    {
+        "id" : 16,
+        "latin_name" : "Leucanthemum vulgare",
+        "french_name" : "Marguerite commune",
+        "family" : "Asteraceae",
+        "imageName" : "leucanthemum_vulgare_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Plante de la famille des Asteraceae, aussi appelée Grande marguerite. Elle fleurit de mai à août. Plante vivace, de 20 à 80 cm de haut. Les feuilles sont soit basales, en rosette, soit caulinaires."
+    },
+    {
+        "id" : 17,
+        "latin_name" : "Echium vulgare",
+        "french_name" : "Vipérine commune",
+        "family" : "Boraginaceae",
+        "imageName" : "echium_vulgare_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "C'est une plante herbacée bisannuelle répandue dans la plupart des régions tempérées du monde, dans les friches et les terres perturbées. Elle se comporte souvent comme une mauvaise herbe des cultures. C'est une plante toxique à haute dose, notamment pour le bétail, du fait de la présence d'alcaloïdes"
+    },
+    {
+        "id" : 18,
+        "latin_name" : "Fragaria viridis",
+        "french_name" : "Fraisier vert",
+        "family" : "Rosaceae",
+        "imageName" : "fragaria_viridis_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Le fraisier vert est une vivace haute de 5 à 20 cm. Elle a peu de stolons, sa tige florale atteint la même hauteur que ses feuilles. ... Elles portent souvent des galles rouges (ce qui permet de le différencier de Fragaria vesca). Les fleurs sont blanches, jaunâtres de 15 à 20 mm de diamètre."
+    },
+    {
+        "id" : 19,
+        "latin_name" : "Fragaria vesca",
+        "french_name" : "Fraisier des bois",
+        "family" : "Rosaceae",
+        "imageName" : "fragaria_vesca_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Le fraisier des bois est une plante herbacée vivace, formant une touffe basse. Les feuilles de la base, à long pétiole, sont trifoliolées, dentées. Le limbe plus ou moins poilu est souvent un peu plissé selon les nervures secondaires. ... Le fruit (faux-fruit) est formé par l'ensemble du réceptacle charnu de la fleur."
+    },
+    {
+        "id" : 20,
+        "latin_name" : "Seseli libanotis",
+        "french_name" : "Libanotis des montagnes",
+        "family" : "Apiaceae",
+        "imageName" : "seseli_libanotis_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Seseli libanotis, le Libanotis en français, est une espèce de plantes herbacées de la famille des Apiaceae (Ombellifères), sous-famille des Apoideae, tribu des Apieae."
+    },
+    {
+        "id" : 21,
+        "latin_name" : "Potentilla verna",
+        "french_name" : "Potentille printanière",
+        "family" : "Rosaceae",
+        "imageName" : "potentilla_verna_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La Potentille printanière est une herbacé vivace de la famille des Rosacées. Elle mesure entre 5 et 20 cm de haut, la tige est en partie couchée, ramifiée. Les feuilles sont alternes avec une base engainante. Les fleurs sont d'un jaune éclatant et sont composées de 5 pétales."
+    },
+    {
+        "id" : 22,
+        "latin_name" : "Ilex aquifolium",
+        "french_name" : "Houx",
+        "family" : "Aquifoliaceae",
+        "imageName" : "ilex_aquifolium_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Le houx commun est un arbuste à croissance très lente, à port buissonneux (ramification dense et assez irrégulière les premières années, lui donnant par la suite un port conique ou arrondi), dont la taille adulte est généralement de quatre à six mètres."
+    },
+    {
+        "id" : 23,
+        "latin_name" : "Polypodium vulgare",
+        "french_name" : "Polypode commun",
+        "family" : "Polypodiaceae",
+        "imageName" : "polypodium_vulgare_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La fougère polypode ou polypode commun (Polypodium vulgare), appelée communément réglisse des bois est une fougère à feuillage persistant, qui est soit terrestre, soit épiphyte, couramment rencontrée dans les régions septentrionales ou montagneuses d'Europe, d'Afrique et de l'est de l'Asie, sur les murs, rochers, troncs d'arbres ou talus bien drainés."
+    },
+    {
+        "id" : 24,
+        "latin_name" : "Carex flacca",
+        "french_name" : "Laîche glauque",
+        "family" : "Cyperaceae",
+        "imageName" : "carex_flacca_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Plante, non parfumée, hauteur à maturité 40 cm, largeur à maturité 30 cm, couleur de floraison 6401, couleur du feuillage 487, type de feuillage persistant, port tapissante"
+    },
+    {
+        "id" : 25,
+        "latin_name" : "Helleborus foetidus",
+        "french_name" : "Hellébore fétide",
+        "family" : "Ranunculaceae",
+        "imageName" : "helleborus_foetidus_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Helleborus foetidus est un hellébore caulinaire. Il produit une tige épaisse et bien droite, vert-jaune, feuillée surtout dans sa partie supérieure. Ses larges feuilles sont composées de 7 à 11 folioles fines et lancéolées, disposées en éventails. Leur limbe est coriace, vert sombre. Ces belles feuilles forment une cime arrondie d’une cinquantaine de centimètres de diamètre. Ce feuillage est persistant et reste intéressant toute l’année"
+    },
+    {
+        "id" : 26,
+        "latin_name" : "Ribes uva-crispa",
+        "french_name" : "Groseillier à maquereau",
+        "family" : "Grossulariaceae",
+        "imageName" : "ribes_uva_crispa_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La groseille à maquereau ou groseillier épineux ou encore groseillier à gros fruits, forme un arbuste buissonnant et épineux, rustique, atteignant 1,5 m de hauteur. ... Les fruits sont translucides vert jaune, blancs ou rouge violacé, légèrement duveteux et mesurent entre 2 et 3 cm de diamètre."
+    },
+    {
+        "id" : 27,
+        "latin_name" : "Ribes rubrum",
+        "french_name" : "Groseillier à grappes",
+        "family" : "Grossulariaceae",
+        "imageName" : "ribes_rubrum_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Groseillier (Ribes rubrum), le castillier ou groseillier à grappes. Le groseillier est un petit arbuste rustique et buissonnant mesurant à peine plus d'1m de haut. Ses feuilles caduques de 5 à 10 cm sont découpées en 3 lobes dentés et elles sont aromatiques."
+    },
+    {
+        "id" : 28,
+        "latin_name" : "Ribes nigrum",
+        "french_name" : "Cassis",
+        "family" : "Grossulariaceae",
+        "imageName" : "ribes_nigrum_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "Le cassis (prononcé ou parfois ) est une baie qui est le fruit de l`arbrisseau Cassissier (Ribes nigrum). Cet arbrisseau de la famille des Grossulariacées, originaire de l`Europe septentrionale et du nord de l`Asie, pousse spontanément dans les régions montagneuses et froides de la zone paléoartique"
+    },
+    {
+        "id" : 29,
+        "latin_name" : "Stellaria Holostea",
+        "french_name" : "Stellaire holostée",
+        "family" : "Caryophyllaceae",
+        "imageName" : "stellaria_holostea_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La stellaire holostée est une plante vivace herbacée. Elle préfére les sols riches et humides, légérement ombragés. Ce qui fait que l'on retrouve peu,cette plante sauvage, dans le sud de la France. On la retrouve par contre en abondance sur les talus et les bords de route du reste de la France. Ses feuilles  simples, opposées, sessiles et persistantes sont longues et fines. La floraison se déoule de mai à juin. Les fleurs blanches, d'environ 2 cm, sont dressées sur une tige simple ou ramifiée. La cyme est bipare. Les fleurs régulières sont composées de 5 pétales bifides (comme la silène dioïque de la même famille) et de 10 étamines et un pistil à 3 stigmates blancs visibles au centre de la fleur. Elle peut se reproduire végétativement grâce à ses rhizomes. Elle est bioindicatrice des milieux plutôt neutre en fôret (neutrocline à large amplitude). Les fruits sont des capsules qui ne contiennent qu'une seule graine. C'est une plante mellifère."
+    },
+    {
+        "id" : 30,
+        "latin_name" : "Viburnum lantana",
+        "french_name" : "Viorne lantane",
+        "family" : "Adoxaceae",
+        "imageName" : "viburnum_lantana_01",
+        "isFavourite": false,
+        "isFeatured": false,
+        "description" : "La viorne lantane (Viburnum lantana) encore appelée viorne mancienne ou viorne flexible est un arbuste de la famille des Caprifoliacées, dont font aussi partie les chèvrefeuilles. De croissance et de vigueur moyennes, ce viburnum se caractérise par son port dressé, sa silhouette arrondie et évasée"
+    }
+
+]
