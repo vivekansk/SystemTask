@@ -32,6 +32,7 @@
 		7C34237B27EC1C42001DB8AA /* FavouriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C34237727EC1C42001DB8AA /* FavouriteButton.swift */; };
 		7C34237F27EC1C4B001DB8AA /* plantData.json in Resources */ = {isa = PBXBuildFile; fileRef = 7C34237D27EC1C4B001DB8AA /* plantData.json */; };
 		7C34238027EC1C4B001DB8AA /* vocabularyData.json in Resources */ = {isa = PBXBuildFile; fileRef = 7C34237E27EC1C4B001DB8AA /* vocabularyData.json */; };
+		C2DE9CCD2832531C00AE6533 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = C2DE9CCC2832531C00AE6533 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		7C34237727EC1C42001DB8AA /* FavouriteButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouriteButton.swift; sourceTree = "<group>"; };
 		7C34237D27EC1C4B001DB8AA /* plantData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = plantData.json; sourceTree = "<group>"; };
 		7C34237E27EC1C4B001DB8AA /* vocabularyData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabularyData.json; sourceTree = "<group>"; };
+		C2DE9CCC2832531C00AE6533 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		7C34231C27EC1C0F001DB8AA = {
 			isa = PBXGroup;
 			children = (
+				C2DE9CCC2832531C00AE6533 /* Readme.md */,
 				7C34237C27EC1C4B001DB8AA /* Resources */,
 				7C34237327EC1C42001DB8AA /* Resusable */,
 				7C34237127EC1C39001DB8AA /* BotanicaApp.swift */,
@@ -341,6 +344,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2DE9CCD2832531C00AE6533 /* Readme.md in Resources */,
 				7C34237F27EC1C4B001DB8AA /* plantData.json in Resources */,
 				7C34238027EC1C4B001DB8AA /* vocabularyData.json in Resources */,
 				7C34233027EC1C10001DB8AA /* Preview Assets.xcassets in Resources */,
